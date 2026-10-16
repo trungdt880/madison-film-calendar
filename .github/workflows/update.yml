@@ -1,0 +1,51 @@
+name: Update film calendars
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every 6 hours (UTC), off the hour to dodge GitHub's top-of-hour backlog
+  workflow_dispatch:          # "Run workflow" button for manual refreshes
+  push:
+    branches: [main]
+    paths: [build_calendars.py, .github/workflows/update.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-calendars
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build calendars
+        id: build
+        # A failing source keeps its previous .ics; still commit whatever succeeded, then fail the job so you get an email.
+        run: python build_calendars.py || echo "partial=true" >> "$GITHUB_OUTPUT"
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/*.ics
+          if ! git diff --cached --quiet; then
+            git commit -m "Update calendars $(date -u +%Y-%m-%dT%H:%MZ)"
+          elif [ $(( $(date +%s) - $(git log -1 --format=%ct) )) -gt $(( 50 * 86400 )) ]; then
+            # GitHub disables scheduled workflows after 60 days without repo activity (e.g. over summer break).
+            git commit --allow-empty -m "Keepalive: no schedule changes in 50 days"
+          fi
+          git push
+
+      - name: Report partial failure
+        if: steps.build.outputs.partial == 'true'
+        run: |
+          echo "::error::One of the sources failed to scrape; see the Build calendars step log."
+          exit 1
