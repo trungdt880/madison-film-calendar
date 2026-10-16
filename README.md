@@ -5,7 +5,7 @@ Subscribable `.ics` feeds built from:
 - **UW Cinematheque**: https://cinema.wisc.edu/calendar/
 - **WUD Film at the Marquee**: https://union.wisc.edu/visit/union-south/the-marquee
 
-A GitHub Actions cron job (`.github/workflows/update.yml`) runs `build_calendars.py` every 6 hours and commits any changes to `docs/`, which GitHub Pages serves.
+A GitHub Actions cron job (`.github/workflows/update.yml`) runs `build_calendars.py` every other day (or on demand via *Actions → Run workflow*) and commits any changes to `docs/`, which GitHub Pages serves.
 
 | Feed | File |
 | --- | --- |
@@ -18,7 +18,7 @@ A GitHub Actions cron job (`.github/workflows/update.yml`) runs `build_calendars
 Use the GitHub Pages URL, e.g. `https://<user>.github.io/madison-film-calendar/madison-film.ics`.
 
 - **Google Calendar**: Other calendars → **+** → *From URL*. Google refreshes subscriptions on its own schedule (typically every 12–24 h).
-- **Apple Calendar**: File → *New Calendar Subscription…* (or open the `webcal://` form of the URL). Set *Auto-refresh* to *Every hour* or *Every day*.
+- **Apple Calendar**: File → *New Calendar Subscription…* (or open the `webcal://` form of the URL). Set *Auto-refresh* to *Every day*.
 - **Outlook**: Add calendar → *Subscribe from web*.
 
 ## How it scrapes

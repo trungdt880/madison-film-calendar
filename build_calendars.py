@@ -186,7 +186,7 @@ def write_ics(path, name, events):
         "BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//madison-film-calendar//EN",
         "CALSCALE:GREGORIAN", "METHOD:PUBLISH",
         f"X-WR-CALNAME:{ics_escape(name)}", "X-WR-TIMEZONE:America/Chicago",
-        "REFRESH-INTERVAL;VALUE=DURATION:PT6H", "X-PUBLISHED-TTL:PT6H",
+        "REFRESH-INTERVAL;VALUE=DURATION:P1D", "X-PUBLISHED-TTL:P1D",
     ]
     for e in sorted(events, key=lambda e: (e["start"], e["title"])):
         desc = "\n\n".join(x for x in (e["description"], e["url"], f"Source: {e['source']}") if x)

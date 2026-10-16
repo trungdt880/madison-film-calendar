@@ -2,7 +2,7 @@ name: Update film calendars
 
 on:
   schedule:
-    - cron: "17 */6 * * *"   # every 6 hours (UTC), off the hour to dodge GitHub's top-of-hour backlog
+    - cron: "17 11 */2 * *"  # every other day at 11:17 UTC (~6am Madison), off the hour to dodge GitHub's top-of-hour backlog
   workflow_dispatch:          # "Run workflow" button for manual refreshes
   push:
     branches: [main]
