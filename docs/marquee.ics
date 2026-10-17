@@ -8,59 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:wud-4952-20261016T1830@union.wisc.edu
-DTSTAMP:20261016T233000Z
-DTSTART:20261016T233000Z
-DTEND:20261017T011900Z
-SUMMARY:Muppets Treasure Island (1996) [Open Caption Screening]
-LOCATION:The Marquee\, Union South
-DESCRIPTION:USA | 99 min | G | Dir. Brian Henson\n \n"The Muppets are bac
- k into action in another movie based on a novel written by Robert Louis S
- tevenson. Kermit the Frog and his colleagues go on a warfare against ruth
- less pirates. They also share their problem-solving journey on sea to res
- cue a treasure." - IMDB\n \n"Muppet Treasure Island confirms what The Mu
- ppet Christmas Carol suggested -- that the Muppet legacy\, that staple of
-  childhood for two generations now\, really has been passed into capable 
- hands." - Rob Salem (Toronto Star)\n \nWatch the trailer here: https://y
- outu.be/-37gsH0ideE?si=gz9EOHTuiiH8DcMF \n\n \n \nFor information on a
- vailable assistive content for WUD Film screenings\, please visit the Ass
- istive Movie Screenings in the Marquee Theater page.  \nVisit our Infor
- med Moviegoing Resources page for links to resources that explore film ra
- tings and content alerts.\nThis event is intended for UW-Madison students
- \, faculty\, staff\, Wisconsin Union members and their guests. Anyone can
-  become a Wisconsin Union member.\n\nhttps://union.wisc.edu/events-and-ac
- tivities/event-calendar/event/wud-film-presents-muppets-treasure-island-1
- 996-open\n\nSource: WUD Film (The Marquee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-muppets-treasure-island-1996-open
-END:VEVENT
-BEGIN:VEVENT
-UID:wud-4953-20261016T2100@union.wisc.edu
-DTSTAMP:20261017T020000Z
-DTSTART:20261017T020000Z
-DTEND:20261017T035700Z
-SUMMARY:Steel Magnolias (1989)
-LOCATION:The Marquee\, Union South
-DESCRIPTION:USA | 117 min | PG | Dir. Herbert Ross\n \n"A young beauticia
- n\, newly arrived in a small Louisiana town\, finds work at the local sal
- on\, where a small group of women share a close bond of friendship\, and 
- welcome her into the fold." - IMDB\n \n" 'Steel Magnolias' is essentiall
- y a series of comic one-liners leading up to a teary tragedy\, but let it
-  be said that the one-liners are mostly funny and the tragedy deserves mo
- st\, but not all\, of the tears." - Roger Ebert\n \nWatch the trailer he
- re: https://youtu.be/d8nojAKKijA?si=-oT7WwV7TxbvIuJ7 \n \n\n \n \nFor
-  information on available assistive content for WUD Film screenings\, ple
- ase visit the Assistive Movie Screenings in the Marquee Theater page.  
- \nVisit our Informed Moviegoing Resources page for links to resources tha
- t explore film ratings and content alerts.\nThis event is intended for UW
- -Madison students\, faculty\, staff\, Wisconsin Union members and their g
- uests. Anyone can become a Wisconsin Union member.\n\nhttps://union.wisc.
- edu/events-and-activities/event-calendar/event/wud-film-presents-steel-ma
- gnolias-1989\n\nSource: WUD Film (The Marquee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-steel-magnolias-1989
-END:VEVENT
-BEGIN:VEVENT
 UID:wud-4954-20261017T2100@union.wisc.edu
 DTSTAMP:20261018T020000Z
 DTSTART:20261018T020000Z
