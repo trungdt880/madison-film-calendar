@@ -8,46 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cinematheque-2796-0-1789689600@cinema.wisc.edu
-DTSTAMP:20260918T000000Z
-DTSTART:20260918T000000Z
-DTEND:20260918T012800Z
-SUMMARY:THE MISCONCEIVED
-LOCATION:UW Cinematheque\, 4070 Vilas Hall\, 821 University Ave\, Madison\
- , WI 53706
-DESCRIPTION:USA | 35mm | 2026 | 88 min.\n\nDirector: James N. Kienitz Wilk
- ins\n\nCast: Jesse Wakeman\, Jess Barbagallo\, John Magary\n\nA fortysome
- thing failed filmmaker reluctantly takes a carpentry job renovating the s
- econd home of his former college friend in this wry satire of the current
-  gig economy. One of the more unique-looking and destabilizing American i
- ndies in recent memory\, The Misconceived was created with an uncanny-val
- ley combination of motion capture and 3D animation\, rendered within a vi
- deo game engine. Preceded by Justin Dean’s far-out computer animation A
-  Beautiful Day (2024\, 6 min.)\, presented on 16mm. (MK)\n\nhttps://cinem
- a.wisc.edu/events/the-misconceived/\n\nSource: UW Cinematheque
-URL:https://cinema.wisc.edu/events/the-misconceived/
-END:VEVENT
-BEGIN:VEVENT
-UID:cinematheque-2519-0-1789776000@cinema.wisc.edu
-DTSTAMP:20260919T000000Z
-DTSTART:20260919T000000Z
-DTEND:20260919T015500Z
-SUMMARY:BELLISSIMA
-LOCATION:UW Cinematheque\, 4079 Vilas Hall\, 821 University Ave\, Madison\
- , WI 53706
-DESCRIPTION:Italy | 1951 | DCP | 115 mins. | Italian with English subtitle
- s\n\nDirector: Luchino Visconti\n\nCast: Anna Magnani\, Tina Apicella\, W
- alter Chiari\n\nScreen legend Magnani gives a powerhouse comedic turn as 
- a mother who crashes Cinecittà studios\, hell-bent on turning her sweet\
- , but ordinary seven-year-old girl into a child star. One of the few come
- dies from cinematic maestro Visconti\, Bellissima takes a sardonic attitu
- de towards the Italian film industry and the many fans who are caught up 
- in the illusions of the dream factory. A new 4K restoration will be scree
- ned!\n\nhttps://cinema.wisc.edu/events/bellissima/\n\nSource: UW Cinemath
- eque
-URL:https://cinema.wisc.edu/events/bellissima/
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2517-0-1789858800@cinema.wisc.edu
 DTSTAMP:20260919T230000Z
 DTSTART:20260919T230000Z
