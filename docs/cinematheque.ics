@@ -8,45 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cinematheque-2517-0-1789858800@cinema.wisc.edu
-DTSTAMP:20260919T230000Z
-DTSTART:20260919T230000Z
-DTEND:20260920T002800Z
-SUMMARY:THE PRODUCERS
-LOCATION:UW Cinematheque\, 4077 Vilas Hall\, 821 University Ave\, Madison\
- , WI 53706
-DESCRIPTION:USA | 1968 | DCP | 88 min.\n\nDirector: Mel Brooks\n\nCast: Ze
- ro Mostel\, Gene Wilder\, Kenneth Mars\n\nFrom the masterful comic mind o
- f Brooks comes the original film farce that inspired the smash Broadway m
- usical. Wilder plays Leo Bloom\, a meek accountant dragged into a scheme 
- by money-hungry producer Max Bialystock (Zero Mostel). In their attempts 
- to find a play guaranteed to flop\, they create a musical monument to bad
-  taste: Springtime for Hitler.\n\nhttps://cinema.wisc.edu/events/the-prod
- ucers/\n\nSource: UW Cinematheque
-URL:https://cinema.wisc.edu/events/the-producers/
-END:VEVENT
-BEGIN:VEVENT
-UID:cinematheque-2520-0-1789866000@cinema.wisc.edu
-DTSTAMP:20260920T010000Z
-DTSTART:20260920T010000Z
-DTEND:20260920T023400Z
-SUMMARY:THE TWELVE CHAIRS
-LOCATION:UW Cinematheque\, 4080 Vilas Hall\, 821 University Ave\, Madison\
- , WI 53706
-DESCRIPTION:USA | 1970 | DCP | 94 min.\n\nDirector: Mel Brooks\n\nCast: Ro
- n Moody\, Frank Langella\, Dom DeLuise\n\nBrooks’s second feature is se
- t in Russia shortly after the Bolshevik uprising\, where a former aristoc
- rat turned hapless clerk (Moody) and a slick con man (Langella) search th
- e country for a set of 12 heirloom chairs\, one of which contains a fortu
- ne in hidden jewels. As in The Producers\, the protagonists\, along with 
- their chief rival (DeLuise)\, are greedy treasure hunters\, forever outwi
- tted by their own inept plans. “The Twelve Chairs is more than merely f
- unny. It brings to a full flowering the Brooks attitude” (Roger Ebert).
- \n\nhttps://cinema.wisc.edu/events/the-twelve-chairs/\n\nSource: UW Cinem
- atheque
-URL:https://cinema.wisc.edu/events/the-twelve-chairs/
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2797-0-1790294400@cinema.wisc.edu
 DTSTAMP:20260925T000000Z
 DTSTART:20260925T000000Z
