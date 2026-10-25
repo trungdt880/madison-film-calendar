@@ -8,66 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cinematheque-2517-0-1789858800@cinema.wisc.edu
-DTSTAMP:20260919T230000Z
-DTSTART:20260919T230000Z
-DTEND:20260920T002800Z
-SUMMARY:THE PRODUCERS
-LOCATION:UW Cinematheque\, 4077 Vilas Hall\, 821 University Ave\, Madison\
- , WI 53706
-DESCRIPTION:USA | 1968 | DCP | 88 min.\n\nDirector: Mel Brooks\n\nCast: Ze
- ro Mostel\, Gene Wilder\, Kenneth Mars\n\nFrom the masterful comic mind o
- f Brooks comes the original film farce that inspired the smash Broadway m
- usical. Wilder plays Leo Bloom\, a meek accountant dragged into a scheme 
- by money-hungry producer Max Bialystock (Zero Mostel). In their attempts 
- to find a play guaranteed to flop\, they create a musical monument to bad
-  taste: Springtime for Hitler.\n\nhttps://cinema.wisc.edu/events/the-prod
- ucers/\n\nSource: UW Cinematheque
-URL:https://cinema.wisc.edu/events/the-producers/
-END:VEVENT
-BEGIN:VEVENT
-UID:cinematheque-2520-0-1789866000@cinema.wisc.edu
-DTSTAMP:20260920T010000Z
-DTSTART:20260920T010000Z
-DTEND:20260920T023400Z
-SUMMARY:THE TWELVE CHAIRS
-LOCATION:UW Cinematheque\, 4080 Vilas Hall\, 821 University Ave\, Madison\
- , WI 53706
-DESCRIPTION:USA | 1970 | DCP | 94 min.\n\nDirector: Mel Brooks\n\nCast: Ro
- n Moody\, Frank Langella\, Dom DeLuise\n\nBrooks’s second feature is se
- t in Russia shortly after the Bolshevik uprising\, where a former aristoc
- rat turned hapless clerk (Moody) and a slick con man (Langella) search th
- e country for a set of 12 heirloom chairs\, one of which contains a fortu
- ne in hidden jewels. As in The Producers\, the protagonists\, along with 
- their chief rival (DeLuise)\, are greedy treasure hunters\, forever outwi
- tted by their own inept plans. “The Twelve Chairs is more than merely f
- unny. It brings to a full flowering the Brooks attitude” (Roger Ebert).
- \n\nhttps://cinema.wisc.edu/events/the-twelve-chairs/\n\nSource: UW Cinem
- atheque
-URL:https://cinema.wisc.edu/events/the-twelve-chairs/
-END:VEVENT
-BEGIN:VEVENT
-UID:cinematheque-2797-0-1790294400@cinema.wisc.edu
-DTSTAMP:20260925T000000Z
-DTSTART:20260925T000000Z
-DTEND:20260925T013200Z
-SUMMARY:ASK E. JEAN
-LOCATION:UW Cinematheque\, 4070 Vilas Hall\, 821 University Ave\, Madison\
- , WI 53706
-DESCRIPTION:USA | DCP | 2026 | 92 min.\n\nDirector: Ivy Meeropol\n\nAsk E.
-  Jean traces the life of the writer\, journalist\, and advice columnist E
- . Jean Carroll\, from her rise as a witty and groundbreaking voice in Ame
- rican magazine publishing to her historic legal victories against Donald 
- Trump. Carroll refused to be silenced and\, using candor\, resilience\, a
- nd a sense of humor\, she led a fight for accountability that reshaped th
- e national conversation around truth and justice. (This summer\, after th
- e initial release of this compelling documentary\, Carroll finally collec
- ted the more than $5.6 million judgment from Trump after years of appeals
- \, while a separate $83.3 million defamation award remains under appeal.)
- \n\nhttps://cinema.wisc.edu/events/ask-e-jean/\n\nSource: UW Cinematheque
-URL:https://cinema.wisc.edu/events/ask-e-jean/
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2525-0-1790380800@cinema.wisc.edu
 DTSTAMP:20260926T000000Z
 DTSTART:20260926T000000Z
@@ -430,31 +370,6 @@ DESCRIPTION:USA | 2026 | DCP| 100 mins.\n\nDirector: David Greaves\n\nOn a
 URL:https://cinema.wisc.edu/events/once-upon-a-time-in-harlem/
 END:VEVENT
 BEGIN:VEVENT
-UID:wud-4973-20261023T1830@union.wisc.edu
-DTSTAMP:20261023T233000Z
-DTSTART:20261023T233000Z
-DTEND:20261024T011500Z
-SUMMARY:Lady Bird (2017) [Open Caption Screening]
-LOCATION:The Marquee\, Union South
-DESCRIPTION:USA | 95 min | R | BluRay | Dir. Greta Gerwig\n \n"A fiercely
-  independent teenager tries to make her own way in the world while wantin
- g to get out of her hometown of Sacramento\, California\, and to get away
-  from her complicated mother and recently-unemployed father." - IMDB\n \
- n"It is also one of the better solo directing debuts by an actor in recen
- t memory" - Roger Ebert\n \nWatch the trailer here: https://youtu.be/cNi
- _HC839Wo?si=m4_TdChAG7HmwayD \n \n \n\n \n \nFor information on avai
- lable assistive content for WUD Film screenings\, please visit the Assist
- ive Movie Screenings in the Marquee Theater page.  \nVisit our Informed
-  Moviegoing Resources page for links to resources that explore film ratin
- gs and content alerts.\nThis event is intended for UW-Madison students\, 
- faculty\, staff\, Wisconsin Union members and their guests. Anyone can be
- come a Wisconsin Union member.\n\nhttps://union.wisc.edu/events-and-activ
- ities/event-calendar/event/wud-film-presents-lady-bird-2017-open-caption-
- screening\n\nSource: WUD Film (The Marquee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-lady-bird-2017-open-caption-screening
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2526-0-1792800000@cinema.wisc.edu
 DTSTAMP:20261024T000000Z
 DTSTART:20261024T000000Z
@@ -477,68 +392,6 @@ DESCRIPTION:Japan | 2004 | DCP | 143 min. | Japanese with English subtitle
 URL:https://cinema.wisc.edu/events/the-taste-of-tea/
 END:VEVENT
 BEGIN:VEVENT
-UID:wud-4976-20261023T2100@union.wisc.edu
-DTSTAMP:20261024T020000Z
-DTSTART:20261024T020000Z
-DTEND:20261024T042700Z
-SUMMARY:Terminator 2: Judgment Day (1991)
-LOCATION:The Marquee\, Union South
-DESCRIPTION:US | 153 Min | R | DCP | Dir. James Cameron\n \nIn this seque
- l set eleven years after "The Terminator\," young John Connor (Edward Fur
- long)\, the key to civilization's victory over a future robot uprising\, 
- is the target of the shape-shifting T-1000 (Robert Patrick)\, a Terminato
- r sent from the future to kill him. Another Terminator\, the revamped T-8
- 00 (Arnold Schwarzenegger)\, has been sent back to protect the boy. As Jo
- hn and his mother (Linda Hamilton) go on the run with the T-800\, the boy
-  forms an unexpected bond with the robot.-Rotten Tomatoes\n \n"The key e
- lement in any action picture\, I think\, is a good villain. Terminator 2 
- has one\, along with an intriguing hero and fierce heroine\, and a young 
- boy who is played by Furlong with guts and energy." - Roger Ebert for the
-  Chicago Sun-Times\n \nWatch the trailer here: https://www.youtube.com/w
- atch?v=BuBD2s2NmEM \n\n \n\n \n \nFor information on available assist
- ive content for WUD Film screenings\, please visit the Assistive Movie Sc
- reenings in the Marquee Theater page.  \nVisit our Informed Moviegoing 
- Resources page for links to resources that explore film ratings and conte
- nt alerts.\nThis event is intended for UW-Madison students\, faculty\, st
- aff\, Wisconsin Union members and their guests. Anyone can become a Wisco
- nsin Union member.\n\nhttps://union.wisc.edu/events-and-activities/event-
- calendar/event/wud-film-presents-terminator-2-judgment-day-1991\n\nSource
- : WUD Film (The Marquee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-terminator-2-judgment-day-1991
-END:VEVENT
-BEGIN:VEVENT
-UID:wud-4975-20261024T1800@union.wisc.edu
-DTSTAMP:20261024T230000Z
-DTSTART:20261024T230000Z
-DTEND:20261025T034500Z
-SUMMARY:Terminator 2: Judgment Day (1991)
-LOCATION:The Marquee\, Union South
-DESCRIPTION:US | 153 Min | R | DCP | Dir. James Cameron\n \nIn this seque
- l set eleven years after "The Terminator\," young John Connor (Edward Fur
- long)\, the key to civilization's victory over a future robot uprising\, 
- is the target of the shape-shifting T-1000 (Robert Patrick)\, a Terminato
- r sent from the future to kill him. Another Terminator\, the revamped T-8
- 00 (Arnold Schwarzenegger)\, has been sent back to protect the boy. As Jo
- hn and his mother (Linda Hamilton) go on the run with the T-800\, the boy
-  forms an unexpected bond with the robot.-Rotten Tomatoes\n \n"The key e
- lement in any action picture\, I think\, is a good villain. Terminator 2 
- has one\, along with an intriguing hero and fierce heroine\, and a young 
- boy who is played by Furlong with guts and energy." - Roger Ebert for the
-  Chicago Sun-Times\n \nWatch the trailer here: https://www.youtube.com/w
- atch?v=BuBD2s2NmEM \n\n \n\n \n \nFor information on available assist
- ive content for WUD Film screenings\, please visit the Assistive Movie Sc
- reenings in the Marquee Theater page.  \nVisit our Informed Moviegoing 
- Resources page for links to resources that explore film ratings and conte
- nt alerts.\nThis event is intended for UW-Madison students\, faculty\, st
- aff\, Wisconsin Union members and their guests. Anyone can become a Wisco
- nsin Union member.\n\nhttps://union.wisc.edu/events-and-activities/event-
- calendar/event/wud-film-presents-terminator-2-judgment-day-1991-0\n\nSour
- ce: WUD Film (The Marquee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-terminator-2-judgment-day-1991-0
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2522-0-1792886400@cinema.wisc.edu
 DTSTAMP:20261025T000000Z
 DTSTART:20261025T000000Z
@@ -558,31 +411,6 @@ DESCRIPTION:USA | 1990 | 35mm | 114 mins.\n\nDirector: James Foley\n\nCast
  s characters” (Roger Ebert). (BR)\n\nhttps://cinema.wisc.edu/events/aft
  er-dark-my-sweet/\n\nSource: UW Cinematheque
 URL:https://cinema.wisc.edu/events/after-dark-my-sweet/
-END:VEVENT
-BEGIN:VEVENT
-UID:wud-4974-20261024T2100@union.wisc.edu
-DTSTAMP:20261025T020000Z
-DTSTART:20261025T020000Z
-DTEND:20261025T034500Z
-SUMMARY:Lady Bird (2017)
-LOCATION:The Marquee\, Union South
-DESCRIPTION:USA | 95 min | R | BluRay | Dir. Greta Gerwig\n \n"A fiercely
-  independent teenager tries to make her own way in the world while wantin
- g to get out of her hometown of Sacramento\, California\, and to get away
-  from her complicated mother and recently-unemployed father." - IMDB\n \
- n"It is also one of the better solo directing debuts by an actor in recen
- t memory" - Roger Ebert\n \nWatch the trailer here: https://youtu.be/cNi
- _HC839Wo?si=m4_TdChAG7HmwayD \n \n \n\n \n \nFor information on avai
- lable assistive content for WUD Film screenings\, please visit the Assist
- ive Movie Screenings in the Marquee Theater page.  \nVisit our Informed
-  Moviegoing Resources page for links to resources that explore film ratin
- gs and content alerts.\nThis event is intended for UW-Madison students\, 
- faculty\, staff\, Wisconsin Union members and their guests. Anyone can be
- come a Wisconsin Union member.\n\nhttps://union.wisc.edu/events-and-activ
- ities/event-calendar/event/wud-film-presents-lady-bird-2017-0\n\nSource: 
- WUD Film (The Marquee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-lady-bird-2017-0
 END:VEVENT
 BEGIN:VEVENT
 UID:cinematheque-2812-0-1793318400@cinema.wisc.edu
@@ -716,6 +544,42 @@ DESCRIPTION:USA | 2026 | DCP | 122 min.\n\nDirector: Jordan Firstman\n\nCa
  ival of the 10-year-old son he never knew he had. (A24 publicity)\n\nhttp
  s://cinema.wisc.edu/events/club-kid/\n\nSource: UW Cinematheque
 URL:https://cinema.wisc.edu/events/club-kid/
+END:VEVENT
+BEGIN:VEVENT
+UID:wud-5035-20261105T1900@union.wisc.edu
+DTSTAMP:20261106T010000Z
+DTSTART:20261106T010000Z
+DTEND:20261106T025500Z
+SUMMARY:Focker-in-Law (2026) Advance Screening
+LOCATION:The Marquee\, Union South
+DESCRIPTION:US | 105 min | PG-13 | Dir. John Hamburg\nA young man named He
+ nry\, son of Greg and Pam Focker\, faces family chaos when he decides to 
+ marry a strong-willed woman who appears to be his complete mismatch. - IM
+ DB\nWatch the trailer here: https://share.google/sfvbFZ8APdLBayncU \n \
+ nNote to Attendees:  Due to high interest in our free advance screenings
+ \, the venue will fill to full seating capacity. Once we reach capacity\,
+  no additional admission will be allowed.  For this reason\, we will be 
+ strictly enforcing our "first-come\, first-served" policy for these scree
+ nings.  There will be no saving of seats in the venue or spots in line.
+   If you wish to be seated as a group\, all parties must arrive and wait
+  in line together once your entire group is present (we will not allow pe
+ ople to cut ahead in line to meet up with others already waiting).  No r
+ ecording devices are allowed in the venue\, and all phones must be fully 
+ powered down before entering the venue.  Security will be in place for t
+ his screening.  To help us speed up the line\, please try to leave backp
+ acks and other large bags at home and fill all available seats in the ven
+ ue.  Coats and bags must be placed under seats\, as we will fill every a
+ vailable seat.  Thank you for your understanding!\n \n \nFor informati
+ on on available assistive content for WUD Film screenings\, please visit 
+ the Assistive Movie Screenings in the Marquee Theater page.  \nVisit ou
+ r Informed Moviegoing Resources page for links to resources that explore 
+ film ratings and content alerts.\nThis event is intended for UW-Madison s
+ tudents\, faculty\, staff\, Wisconsin Union members and their guests. Any
+ one can become a Wisconsin Union member.\n\nhttps://union.wisc.edu/events
+ -and-activities/event-calendar/event/wud-film-presents-focker-law-2026-ad
+ vance-screening\n\nSource: WUD Film (The Marquee)
+URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
+ film-presents-focker-law-2026-advance-screening
 END:VEVENT
 BEGIN:VEVENT
 UID:cinematheque-2815-0-1794009600@cinema.wisc.edu
@@ -885,6 +749,62 @@ URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
  film-presents-social-network-2010
 END:VEVENT
 BEGIN:VEVENT
+UID:wud-5037-20261108T1600@union.wisc.edu
+DTSTAMP:20261108T220000Z
+DTSTART:20261108T220000Z
+DTEND:20261108T235600Z
+SUMMARY:Altar Boys (2025) [Polish Film Festival]
+LOCATION:The Marquee\, Union South
+DESCRIPTION:Poland | 106 min | NR | Dir. Piotr Domalewski\n"Teenage altar 
+ boys tap confessionals to fight injustice their way. Wearing Zorro masks\
+ , they judge sinners and help the needy\, blurring good and evil in their
+  suburban crusade for moral renewal."\nWatch the trailer here: https://ww
+ w.youtube.com/watch?v=GNOXJ05FHh0&t=2s \n \nThe Madison Polish Film Fes
+ tival is a free annual event organized by the UW-Madison Polish Student A
+ ssociation in collaboration with the Department of German\, Nordic\, and 
+ Slavic+ and Wisconsin Union Directorate (WUD) Film Committee\, and sponso
+ red by the Lapinski Family Fund\, CREECA\, and the Polish Heritage Club o
+ f Madison.  \n \nFor information on available assistive content for WUD
+  Film screenings\, please visit the Assistive Movie Screenings in the Mar
+ quee Theater page.  \nVisit our Informed Moviegoing Resources page for 
+ links to resources that explore film ratings and content alerts.\nThis ev
+ ent is intended for UW-Madison students\, faculty\, staff\, Wisconsin Uni
+ on members and their guests. Anyone can become a Wisconsin Union member.\
+ n\nhttps://union.wisc.edu/events-and-activities/event-calendar/event/wud-
+ film-presents-altar-boys-2025-polish-film-festival\n\nSource: WUD Film (T
+ he Marquee)
+URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
+ film-presents-altar-boys-2025-polish-film-festival
+END:VEVENT
+BEGIN:VEVENT
+UID:wud-5036-20261108T1830@union.wisc.edu
+DTSTAMP:20261109T003000Z
+DTSTART:20261109T003000Z
+DTEND:20261109T022700Z
+SUMMARY:Home Sweet Home (2025) [Polish Film Festival]
+LOCATION:The Marquee\, Union South
+DESCRIPTION:Poland | 107 min | NR | Dir. Wojciech Smarzowski\n \n"Online 
+ romance leads Goska to Grzesiek\, who seems perfect with his flowers and 
+ Venice proposal. But their love story takes a dark turn as their shared h
+ ome becomes increasingly dangerous for her."\nWatch the trailer here:  h
+ ttps://www.youtube.com/watch?v=F7glxLmR7oQ \n \nThe Madison Polish Film
+  Festival is a free annual event organized by the UW-Madison Polish Stude
+ nt Association in collaboration with the Department of German\, Nordic\, 
+ and Slavic+ and Wisconsin Union Directorate (WUD) Film Committee\, and sp
+ onsored by the Lapinski Family Fund\, CREECA\, and the Polish Heritage Cl
+ ub of Madison.  \n \nFor information on available assistive content for
+  WUD Film screenings\, please visit the Assistive Movie Screenings in the
+  Marquee Theater page.  \nVisit our Informed Moviegoing Resources page 
+ for links to resources that explore film ratings and content alerts.\nThi
+ s event is intended for UW-Madison students\, faculty\, staff\, Wisconsin
+  Union members and their guests. Anyone can become a Wisconsin Union memb
+ er.\n\nhttps://union.wisc.edu/events-and-activities/event-calendar/event/
+ wud-film-presents-home-sweet-home-2025-polish-film\n\nSource: WUD Film (T
+ he Marquee)
+URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
+ film-presents-home-sweet-home-2025-polish-film
+END:VEVENT
+BEGIN:VEVENT
 UID:cinematheque-2818-0-1794531600@cinema.wisc.edu
 DTSTAMP:20261113T010000Z
 DTSTART:20261113T010000Z
@@ -901,6 +821,30 @@ DESCRIPTION:USA | 2026 | DCP | 105 min.\n\nDirector: Jesse Eisenberg\n\nCa
  icity)\n\nhttps://cinema.wisc.edu/events/the-debut/\n\nSource: UW Cinemat
  heque
 URL:https://cinema.wisc.edu/events/the-debut/
+END:VEVENT
+BEGIN:VEVENT
+UID:wud-5048-20261113T1830@union.wisc.edu
+DTSTAMP:20261114T003000Z
+DTSTART:20261114T003000Z
+DTEND:20261114T021500Z
+SUMMARY:La Haine (1995)
+LOCATION:The Marquee\, Union South
+DESCRIPTION:France | 98 min | NR | Dir. Mathieu Kassovitz\n \n \n \n"24
+  hours in the lives of three young men in the French suburbs the day afte
+ r a violent riot." - IMDB\n \n \n"La Haine is an unmissable response to
+  an unending emergency" - Peter Bradshaw (The Guardian)\n \n \nWatch th
+ e trailer here:  https://youtu.be/FKwcXt3JIaU?si=MMmve85aV5z_FJ0x \n \
+ n\n \n \n\n \n \n\n \n\n \n \nFor information on available assisti
+ ve content for WUD Film screenings\, please visit the Assistive Movie Scr
+ eenings in the Marquee Theater page.  \nVisit our Informed Moviegoing R
+ esources page for links to resources that explore film ratings and conten
+ t alerts.\nThis event is intended for UW-Madison students\, faculty\, sta
+ ff\, Wisconsin Union members and their guests. Anyone can become a Wiscon
+ sin Union member.\n\nhttps://union.wisc.edu/events-and-activities/event-c
+ alendar/event/wud-film-presents-la-haine-1995\n\nSource: WUD Film (The Ma
+ rquee)
+URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
+ film-presents-la-haine-1995
 END:VEVENT
 BEGIN:VEVENT
 UID:cinematheque-2819-0-1794618000@cinema.wisc.edu
@@ -922,6 +866,37 @@ DESCRIPTION:India | 2012 | DCP | 145 min. | Telugu with English subtitles\
  solutely unique” (Screen Anarchy). (MK)\n\nhttps://cinema.wisc.edu/even
  ts/eega/\n\nSource: UW Cinematheque
 URL:https://cinema.wisc.edu/events/eega/
+END:VEVENT
+BEGIN:VEVENT
+UID:wud-5049-20261113T2045@union.wisc.edu
+DTSTAMP:20261114T024500Z
+DTSTART:20261114T024500Z
+DTEND:20261114T053300Z
+SUMMARY:There Will Be Blood (2007)
+LOCATION:The Marquee\, Union South
+DESCRIPTION:US | 158 min | R | Dir. Paul Thomas Anderson\n \n \n\n"Silve
+ r miner Daniel Plainview (Daniel Day-Lewis) leads a hardscrabble life wit
+ h his son\, H.W. (Dillon Freasier). When he hears about oil oozing from t
+ he ground near the Western town of Little Boston\, Daniel takes his son o
+ n a mission to find their fortune. Daniel makes his lucky strike and beco
+ mes a self-made tycoon but\, as his fortune grows\, he deviates into mora
+ l bankruptcy." - Rotten Tomatoes\n \n \n \n"The film is above all a co
+ nsummate work of art\, one that transcends the historically fraught conte
+ xt of its making\, and its pleasures are unapologetically aesthetic. It r
+ eveals\, excites\, disturbs\, provokes\, but the window it opens is to hu
+ man consciousness itself."        - Manohla Dargis for New York Times
+ \n \n\n \n \n \nWatch the trailer here: https://www.youtube.com/watch
+ ?v=FeSLPELpMeM \n \n\n \n \n\n \n \n\n \n \n\n \n\n \n \nFor i
+ nformation on available assistive content for WUD Film screenings\, pleas
+ e visit the Assistive Movie Screenings in the Marquee Theater page.  \n
+ Visit our Informed Moviegoing Resources page for links to resources that 
+ explore film ratings and content alerts.\nThis event is intended for UW-M
+ adison students\, faculty\, staff\, Wisconsin Union members and their gue
+ sts. Anyone can become a Wisconsin Union member.\n\nhttps://union.wisc.ed
+ u/events-and-activities/event-calendar/event/wud-film-presents-there-will
+ -be-blood-2007\n\nSource: WUD Film (The Marquee)
+URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
+ film-presents-there-will-be-blood-2007
 END:VEVENT
 BEGIN:VEVENT
 UID:cinematheque-2820-0-1794704400@cinema.wisc.edu
@@ -970,6 +945,35 @@ DESCRIPTION:India | 2015 | DCP | 151 min. | Telugu with English subtitles\
 URL:https://cinema.wisc.edu/events/baahubali-the-beginning/
 END:VEVENT
 BEGIN:VEVENT
+UID:wud-5042-20261115T1600@union.wisc.edu
+DTSTAMP:20261115T220000Z
+DTSTART:20261115T220000Z
+DTEND:20261116T000000Z
+SUMMARY:Good Boy (2025) [Polish Film Festival]
+LOCATION:The Marquee\, Union South
+DESCRIPTION:Poland | 110 min | NR | Dir. Jan Komasa\n \n"A 19-year-old cr
+ iminal\, Tommy\, is kidnapped and forced into a rehabilitation process by
+  a dysfunctional couple\, Chris and Kathryn\, who try to make him a "good
+  boy." Tommy must find a way to escape". -IMDB\n"Simply sublime\, dark\, 
+ and unnerving" - BOOM\nWatch the trailer here: https://www.imdb.com/video
+ /vi866241305/?ref_=tt_vids_vi_t_2 \n \nThe Madison Polish Film Festival
+  is a free annual event organized by the UW-Madison Polish Student Associ
+ ation in collaboration with the Department of German\, Nordic\, and Slavi
+ c+ and Wisconsin Union Directorate (WUD) Film Committee\, and sponsored b
+ y the Lapinski Family Fund\, CREECA\, and the Polish Heritage Club of Mad
+ ison.  \n \n \nFor information on available assistive content for WUD 
+ Film screenings\, please visit the Assistive Movie Screenings in the Marq
+ uee Theater page.  \nVisit our Informed Moviegoing Resources page for l
+ inks to resources that explore film ratings and content alerts.\nThis eve
+ nt is intended for UW-Madison students\, faculty\, staff\, Wisconsin Unio
+ n members and their guests. Anyone can become a Wisconsin Union member.\n
+ \nhttps://union.wisc.edu/events-and-activities/event-calendar/event/wud-f
+ ilm-presents-good-boy-2025-polish-film-festival\n\nSource: WUD Film (The 
+ Marquee)
+URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
+ film-presents-good-boy-2025-polish-film-festival
+END:VEVENT
+BEGIN:VEVENT
 UID:cinematheque-2971-0-1794783600@cinema.wisc.edu
 DTSTAMP:20261115T230000Z
 DTSTART:20261115T230000Z
@@ -990,6 +994,57 @@ DESCRIPTION:India | 2017 | DCP | 158 min. | Telugu with English subtitles\
  presented with a 20 minute intermission. (MK)\n\nhttps://cinema.wisc.edu/
  events/baahubali-2-the-conclusion/\n\nSource: UW Cinematheque
 URL:https://cinema.wisc.edu/events/baahubali-2-the-conclusion/
+END:VEVENT
+BEGIN:VEVENT
+UID:wud-5045-20261115T1830@union.wisc.edu
+DTSTAMP:20261116T003000Z
+DTSTART:20261116T003000Z
+DTEND:20261116T024000Z
+SUMMARY:The Duel/Gorky Resort (2026) [Polish Film Festival]
+LOCATION:The Marquee\, Union South
+DESCRIPTION:Poland | 113 min | NR | Dir. Lukasz Palkowski\n \n"Confronted
+  with a malevolent interrogator in a Soviet prisoner-of-war camp\, a youn
+ g Polish lieutenant fights for his life and the soul of his country."\nWa
+ tch the trailer here: https://www.youtube.com/watch?v=OmqnHUr2AkA \n \n
+ The Madison Polish Film Festival is a free annual event organized by the 
+ UW-Madison Polish Student Association in collaboration with the Departmen
+ t of German\, Nordic\, and Slavic+ and Wisconsin Union Directorate (WUD) 
+ Film Committee\, and sponsored by the Lapinski Family Fund\, CREECA\, and
+  the Polish Heritage Club of Madison.  \n \nFor information on availabl
+ e assistive content for WUD Film screenings\, please visit the Assistive 
+ Movie Screenings in the Marquee Theater page.  \nVisit our Informed Mov
+ iegoing Resources page for links to resources that explore film ratings a
+ nd content alerts.\nThis event is intended for UW-Madison students\, facu
+ lty\, staff\, Wisconsin Union members and their guests. Anyone can become
+  a Wisconsin Union member.\n\nhttps://union.wisc.edu/events-and-activitie
+ s/event-calendar/event/wud-film-presents-duelgorky-resort-2026-polish-fil
+ m\n\nSource: WUD Film (The Marquee)
+URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
+ film-presents-duelgorky-resort-2026-polish-film
+END:VEVENT
+BEGIN:VEVENT
+UID:wud-5047-20261118T1900@union.wisc.edu
+DTSTAMP:20261119T010000Z
+DTSTART:20261119T010000Z
+DTEND:20261119T023200Z
+SUMMARY:Parasite (2019)
+LOCATION:The Marquee\, Union South
+DESCRIPTION:South Korea | 132 min | R | Dir. Bong Joon Ho\n \n \n"Greed 
+ and class discrimination threaten the newly formed symbiotic relationship
+  between the wealthy Park family and the destitute Kim clan." - IMDB\n \
+ n\n \n \n"One of the best films of the decade" - Awards Circuit\n \n\n
+  \n \nWatch the trailer here: https://www.youtube.com/watch?v=isOGD_7hN
+ IY \n \n\n \n \n\n \n\n \n \nFor information on available assistiv
+ e content for WUD Film screenings\, please visit the Assistive Movie Scre
+ enings in the Marquee Theater page.  \nVisit our Informed Moviegoing Re
+ sources page for links to resources that explore film ratings and content
+  alerts.\nThis event is intended for UW-Madison students\, faculty\, staf
+ f\, Wisconsin Union members and their guests. Anyone can become a Wiscons
+ in Union member.\n\nhttps://union.wisc.edu/events-and-activities/event-ca
+ lendar/event/wud-film-presents-parasite-2019\n\nSource: WUD Film (The Mar
+ quee)
+URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
+ film-presents-parasite-2019
 END:VEVENT
 BEGIN:VEVENT
 UID:cinematheque-2822-0-1795136400@cinema.wisc.edu

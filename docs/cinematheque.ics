@@ -8,27 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cinematheque-2797-0-1790294400@cinema.wisc.edu
-DTSTAMP:20260925T000000Z
-DTSTART:20260925T000000Z
-DTEND:20260925T013200Z
-SUMMARY:ASK E. JEAN
-LOCATION:UW Cinematheque\, 4070 Vilas Hall\, 821 University Ave\, Madison\
- , WI 53706
-DESCRIPTION:USA | DCP | 2026 | 92 min.\n\nDirector: Ivy Meeropol\n\nAsk E.
-  Jean traces the life of the writer\, journalist\, and advice columnist E
- . Jean Carroll\, from her rise as a witty and groundbreaking voice in Ame
- rican magazine publishing to her historic legal victories against Donald 
- Trump. Carroll refused to be silenced and\, using candor\, resilience\, a
- nd a sense of humor\, she led a fight for accountability that reshaped th
- e national conversation around truth and justice. (This summer\, after th
- e initial release of this compelling documentary\, Carroll finally collec
- ted the more than $5.6 million judgment from Trump after years of appeals
- \, while a separate $83.3 million defamation award remains under appeal.)
- \n\nhttps://cinema.wisc.edu/events/ask-e-jean/\n\nSource: UW Cinematheque
-URL:https://cinema.wisc.edu/events/ask-e-jean/
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2525-0-1790380800@cinema.wisc.edu
 DTSTAMP:20260926T000000Z
 DTSTART:20260926T000000Z
