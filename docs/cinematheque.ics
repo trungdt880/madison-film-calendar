@@ -8,48 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cinematheque-2525-0-1790380800@cinema.wisc.edu
-DTSTAMP:20260926T000000Z
-DTSTART:20260926T000000Z
-DTEND:20260926T012500Z
-SUMMARY:CRY-BABY
-LOCATION:Chazen Museum of Art\, 750 University Ave\, Madison\, WI 53706
-DESCRIPTION:USA | 1990 | 35mm | 85 mins.\n\nDirector: John Waters\n\nCast:
-  Johnny Depp\, Amy Locane\, Ricki Lake\n\n1950s Baltimore gets torn apart
-  when preppy Allison (Locane) falls hard for juvenile delinquent Wade “
- Cry-Baby” Walker (Depp\, already subverting his heartthrob image in his
-  first major film role). A tongue-in-cheek musical delivered at the hoppe
- d-up pitch of its rockabilly soundtrack\, this wildly entertaining romp b
- oth satirizes and embraces teen movie tropes. Featuring a supporting cast
-  stacked with enough showbiz weirdos to rival Marty Supreme\, Waters’s 
- first movie for a major Hollywood studio is a perfect fusion of his outsi
- der attitude and pure pop cinema. (MK)\n\nhttps://cinema.wisc.edu/events/
- cry-baby/\n\nSource: UW Cinematheque
-URL:https://cinema.wisc.edu/events/cry-baby/
-END:VEVENT
-BEGIN:VEVENT
-UID:cinematheque-2798-0-1790467200@cinema.wisc.edu
-DTSTAMP:20260927T000000Z
-DTSTART:20260927T000000Z
-DTEND:20260927T014400Z
-SUMMARY:THE THIRD MAN
-LOCATION:UW Cinematheque\, 4070 Vilas Hall\, 821 University Ave\, Madison\
- , WI 53706
-DESCRIPTION:UK | 1949 | 35mm | 104 min.\n\nDirector: Carol Reed\n\nCast: J
- oseph Cotten\, Alida Valli\, Orson Welles\n\nIn the ruins of postwar Vien
- na\, American writer Holly Martins (Cotten) arrives to visit old friend H
- arry Lime (Welles). However\, Holly discovers that Lime is supposedly dea
- d and under investigation for his role in the city’s lawless black mark
- et. Working from a screenplay by novelist Graham Greene\, director Reed i
- nventively directs this classic noir with a wealth of angled compositions
-  and sinister shadows. Aided by its singular zither score and vivid locat
- ion shooting\, The Third Man is a masterfully off-kilter mystery\, plungi
- ng deep into a morally murky world. A brand new 35mm print\, courtesy of 
- Rialto Pictures\, will be screened. (JM)\n\nhttps://cinema.wisc.edu/event
- s/the-third-man/\n\nSource: UW Cinematheque
-URL:https://cinema.wisc.edu/events/the-third-man/
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2799-0-1790535600@cinema.wisc.edu
 DTSTAMP:20260927T190000Z
 DTSTART:20260927T190000Z
@@ -701,10 +659,11 @@ DESCRIPTION:USA | 1930 | 35mm | 102 min.\n\nDirector: Ernst Lubitsch\, Edm
  ice Chavalier\, Jean Arthur\, Kay Francis\, Jack Oakie\, William Powell\,
   Fay Wray\, and lots\, lots more stars. Hard to see for many years\, a fe
  w sequences have been lost or partially lost. This 35mm preservation prin
- t from the UCLA Film & Television Archive restores the two-color Technico
- lor to several sequences and is the most complete version available. 35mm
-  restored print courtesy of the UCLA Film & Television Archive.\n\nhttps:
- //cinema.wisc.edu/events/paramount-on-parade/\n\nSource: UW Cinematheque
+ t courtesy the UCLA Film & Television Archive restores the two-color Tech
+ nicolor to several sequences and is the most complete version available. 
+ 35mm restored print courtesy of the UCLA Film & Television Archive.\n\nht
+ tps://cinema.wisc.edu/events/paramount-on-parade/\n\nSource: UW Cinemathe
+ que
 URL:https://cinema.wisc.edu/events/paramount-on-parade/
 END:VEVENT
 BEGIN:VEVENT
@@ -825,9 +784,9 @@ DESCRIPTION:USA | 1941 | 35mm | 91 min.\n\nDirector: Sam Wood\n\nCast: Jea
  n though\, he’s caught up in the lives of his employees\, including uni
  on ringleader Mary Jones (Arthur)\, and Merrick forgets his original purp
  ose…until his two identities collide. This hilarious farce will be show
- n in a restored 35mm print courtesy of the UCLA Film & Television Archive
- .\n\nhttps://cinema.wisc.edu/events/the-devil-and-miss-jones/\n\nSource: 
- UW Cinematheque
+ n in a restored 35mm preservation print courtesy of the UCLA Film & Telev
+ ision Archive.\n\nhttps://cinema.wisc.edu/events/the-devil-and-miss-jones
+ /\n\nSource: UW Cinematheque
 URL:https://cinema.wisc.edu/events/the-devil-and-miss-jones/
 END:VEVENT
 BEGIN:VEVENT
