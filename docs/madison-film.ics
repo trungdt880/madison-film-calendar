@@ -8,26 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cinematheque-2799-0-1790535600@cinema.wisc.edu
-DTSTAMP:20260927T190000Z
-DTSTART:20260927T190000Z
-DTEND:20260927T202500Z
-SUMMARY:POISON
-LOCATION:Chazen Museum of Art\, 750 University Ave\, Madison\, WI 53706
-DESCRIPTION:USA | 1991 | 35mm | 85 min.\n\nDirector: Todd Haynes\n\nCast: 
- Edith Meeks\, Scott Renderer\, James Lyons\n\nNotoriously renown for the 
- bevy of right-wing protests sparked by its initial release\, Haynes’ fi
- rst feature strings together the brutally sadistic tales of a father gunn
- ed down by his 7-year old son\, a mad-scientist’s STD-inducing love pot
- ion\, and a berated homosexual prisoner hopelessly enamored with his fell
- ow inmate. While all three tableaus are linked together through their cor
- rupting portrayals of sex\, Haynes imbues each separate vignette with a d
- istinct style that recall television newsmagazine stories\, 50s horror fi
- lms\, and the work of Jean Genet.\n\nhttps://cinema.wisc.edu/events/poiso
- n/\n\nSource: UW Cinematheque
-URL:https://cinema.wisc.edu/events/poison/
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2800-0-1790899200@cinema.wisc.edu
 DTSTAMP:20261002T000000Z
 DTSTART:20261002T000000Z
@@ -508,7 +488,7 @@ UID:wud-5035-20261105T1900@union.wisc.edu
 DTSTAMP:20261106T010000Z
 DTSTART:20261106T010000Z
 DTEND:20261106T025500Z
-SUMMARY:Focker-in-Law (2026) Advance Screening
+SUMMARY:Focker-in-Law (2026) Advance Screening [Open Caption Screening]
 LOCATION:The Marquee\, Union South
 DESCRIPTION:US | 105 min | PG-13 | Dir. John Hamburg\nA young man named He
  nry\, son of Greg and Pam Focker\, faces family chaos when he decides to 
@@ -535,9 +515,9 @@ DESCRIPTION:US | 105 min | PG-13 | Dir. John Hamburg\nA young man named He
  tudents\, faculty\, staff\, Wisconsin Union members and their guests. Any
  one can become a Wisconsin Union member.\n\nhttps://union.wisc.edu/events
  -and-activities/event-calendar/event/wud-film-presents-focker-law-2026-ad
- vance-screening\n\nSource: WUD Film (The Marquee)
+ vance-screening-open\n\nSource: WUD Film (The Marquee)
 URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-focker-law-2026-advance-screening
+ film-presents-focker-law-2026-advance-screening-open
 END:VEVENT
 BEGIN:VEVENT
 UID:cinematheque-2815-0-1794009600@cinema.wisc.edu
@@ -562,7 +542,7 @@ UID:wud-5005-20261106T1830@union.wisc.edu
 DTSTAMP:20261107T003000Z
 DTSTART:20261107T003000Z
 DTEND:20261107T022000Z
-SUMMARY:The Grand Budapest Hotel (2014)
+SUMMARY:The Grand Budapest Hotel (2014) [Open Caption Screening]
 LOCATION:The Marquee\, Union South
 DESCRIPTION:USA | 100 min | R | Dir. Wes Anderson\n \n"The owner of an ag
  ing high-class hotel regales a writer with tales of serving as a lobby bo
@@ -577,9 +557,10 @@ DESCRIPTION:USA | 100 min | R | Dir. Wes Anderson\n \n"The owner of an ag
  nded for UW-Madison students\, faculty\, staff\, Wisconsin Union members 
  and their guests. Anyone can become a Wisconsin Union member.\n\nhttps://
  union.wisc.edu/events-and-activities/event-calendar/event/wud-film-presen
- ts-grand-budapest-hotel-2014\n\nSource: WUD Film (The Marquee)
+ ts-grand-budapest-hotel-2014-open-caption\n\nSource: WUD Film (The Marque
+ e)
 URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-grand-budapest-hotel-2014
+ film-presents-grand-budapest-hotel-2014-open-caption
 END:VEVENT
 BEGIN:VEVENT
 UID:cinematheque-2816-0-1794014100@cinema.wisc.edu
@@ -609,7 +590,7 @@ UID:wud-5006-20261106T2100@union.wisc.edu
 DTSTAMP:20261107T030000Z
 DTSTART:20261107T030000Z
 DTEND:20261107T045700Z
-SUMMARY:The Invite (2026)
+SUMMARY:The Invite (2026) [Open Caption Screening]
 LOCATION:The Marquee\, Union South
 DESCRIPTION:USA | 107 Mins | R | Dir. Olivia Wilde\n \nJoe and Angela's m
  arriage is on thin ice. When they invite their enigmatic upstairs neighbo
@@ -625,10 +606,10 @@ DESCRIPTION:USA | 107 Mins | R | Dir. Olivia Wilde\n \nJoe and Angela's m
  nt alerts.\nThis event is intended for UW-Madison students\, faculty\, st
  aff\, Wisconsin Union members and their guests. Anyone can become a Wisco
  nsin Union member.\n\nhttps://union.wisc.edu/events-and-activities/event-
- calendar/event/wud-film-presents-invite-2026\n\nSource: WUD Film (The Mar
- quee)
+ calendar/event/wud-film-presents-invite-2026-open-caption-screening\n\nSo
+ urce: WUD Film (The Marquee)
 URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-invite-2026
+ film-presents-invite-2026-open-caption-screening
 END:VEVENT
 BEGIN:VEVENT
 UID:wud-5007-20261107T1830@union.wisc.edu
@@ -681,7 +662,7 @@ UID:wud-5013-20261107T2100@union.wisc.edu
 DTSTAMP:20261108T030000Z
 DTSTART:20261108T030000Z
 DTEND:20261108T051000Z
-SUMMARY:The Social Network (2010)
+SUMMARY:The Social Network (2010) [Open Caption Screening]
 LOCATION:The Marquee\, Union South
 DESCRIPTION:USA | 120 Min | PG-13 | Dir. David Fincher\n \nIn 2003\, Harv
  ard undergrad and computer genius Mark Zuckerberg (Jesse Eisenberg) begin
@@ -702,9 +683,10 @@ DESCRIPTION:USA | 120 Min | PG-13 | Dir. David Fincher\n \nIn 2003\, Harv
  his event is intended for UW-Madison students\, faculty\, staff\, Wiscons
  in Union members and their guests. Anyone can become a Wisconsin Union me
  mber.\n\nhttps://union.wisc.edu/events-and-activities/event-calendar/even
- t/wud-film-presents-social-network-2010\n\nSource: WUD Film (The Marquee)
+ t/wud-film-presents-social-network-2010-open-caption\n\nSource: WUD Film 
+ (The Marquee)
 URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-social-network-2010
+ film-presents-social-network-2010-open-caption
 END:VEVENT
 BEGIN:VEVENT
 UID:wud-5037-20261108T1600@union.wisc.edu
@@ -830,31 +812,30 @@ UID:wud-5049-20261113T2045@union.wisc.edu
 DTSTAMP:20261114T024500Z
 DTSTART:20261114T024500Z
 DTEND:20261114T053300Z
-SUMMARY:There Will Be Blood (2007)
+SUMMARY:There Will Be Blood (2007) [Open Caption Screening]
 LOCATION:The Marquee\, Union South
-DESCRIPTION:US | 158 min | R | Dir. Paul Thomas Anderson\n \n \n\n"Silve
- r miner Daniel Plainview (Daniel Day-Lewis) leads a hardscrabble life wit
- h his son\, H.W. (Dillon Freasier). When he hears about oil oozing from t
- he ground near the Western town of Little Boston\, Daniel takes his son o
- n a mission to find their fortune. Daniel makes his lucky strike and beco
- mes a self-made tycoon but\, as his fortune grows\, he deviates into mora
- l bankruptcy." - Rotten Tomatoes\n \n \n \n"The film is above all a co
- nsummate work of art\, one that transcends the historically fraught conte
- xt of its making\, and its pleasures are unapologetically aesthetic. It r
- eveals\, excites\, disturbs\, provokes\, but the window it opens is to hu
- man consciousness itself."        - Manohla Dargis for New York Times
- \n \n\n \n \n \nWatch the trailer here: https://www.youtube.com/watch
- ?v=FeSLPELpMeM \n \n\n \n \n\n \n \n\n \n \n\n \n\n \n \nFor i
- nformation on available assistive content for WUD Film screenings\, pleas
- e visit the Assistive Movie Screenings in the Marquee Theater page.  \n
- Visit our Informed Moviegoing Resources page for links to resources that 
- explore film ratings and content alerts.\nThis event is intended for UW-M
- adison students\, faculty\, staff\, Wisconsin Union members and their gue
- sts. Anyone can become a Wisconsin Union member.\n\nhttps://union.wisc.ed
- u/events-and-activities/event-calendar/event/wud-film-presents-there-will
- -be-blood-2007\n\nSource: WUD Film (The Marquee)
+DESCRIPTION:US | 158 min | R | Dir. Paul Thomas Anderson\n\n"Silver miner 
+ Daniel Plainview (Daniel Day-Lewis) leads a hardscrabble life with his so
+ n\, H.W. (Dillon Freasier). When he hears about oil oozing from the groun
+ d near the Western town of Little Boston\, Daniel takes his son on a miss
+ ion to find their fortune. Daniel makes his lucky strike and becomes a se
+ lf-made tycoon but\, as his fortune grows\, he deviates into moral bankru
+ ptcy." - Rotten Tomatoes\n"The film is above all a consummate work of art
+ \, one that transcends the historically fraught context of its making\, a
+ nd its pleasures are unapologetically aesthetic. It reveals\, excites\, d
+ isturbs\, provokes\, but the window it opens is to human consciousness it
+ self."        - Manohla Dargis for New York Times\n \n \n \nWatch 
+ the trailer here: https://www.youtube.com/watch?v=FeSLPELpMeM \n \n \n
+ For information on available assistive content for WUD Film screenings\, 
+ please visit the Assistive Movie Screenings in the Marquee Theater page.
+   \nVisit our Informed Moviegoing Resources page for links to resources
+  that explore film ratings and content alerts.\nThis event is intended fo
+ r UW-Madison students\, faculty\, staff\, Wisconsin Union members and the
+ ir guests. Anyone can become a Wisconsin Union member.\n\nhttps://union.w
+ isc.edu/events-and-activities/event-calendar/event/wud-film-presents-ther
+ e-will-be-blood-2007-open-caption\n\nSource: WUD Film (The Marquee)
 URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-there-will-be-blood-2007
+ film-presents-there-will-be-blood-2007-open-caption
 END:VEVENT
 BEGIN:VEVENT
 UID:cinematheque-2820-0-1794704400@cinema.wisc.edu

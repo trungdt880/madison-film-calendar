@@ -8,26 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cinematheque-2799-0-1790535600@cinema.wisc.edu
-DTSTAMP:20260927T190000Z
-DTSTART:20260927T190000Z
-DTEND:20260927T202500Z
-SUMMARY:POISON
-LOCATION:Chazen Museum of Art\, 750 University Ave\, Madison\, WI 53706
-DESCRIPTION:USA | 1991 | 35mm | 85 min.\n\nDirector: Todd Haynes\n\nCast: 
- Edith Meeks\, Scott Renderer\, James Lyons\n\nNotoriously renown for the 
- bevy of right-wing protests sparked by its initial release\, Haynes’ fi
- rst feature strings together the brutally sadistic tales of a father gunn
- ed down by his 7-year old son\, a mad-scientist’s STD-inducing love pot
- ion\, and a berated homosexual prisoner hopelessly enamored with his fell
- ow inmate. While all three tableaus are linked together through their cor
- rupting portrayals of sex\, Haynes imbues each separate vignette with a d
- istinct style that recall television newsmagazine stories\, 50s horror fi
- lms\, and the work of Jean Genet.\n\nhttps://cinema.wisc.edu/events/poiso
- n/\n\nSource: UW Cinematheque
-URL:https://cinema.wisc.edu/events/poison/
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2800-0-1790899200@cinema.wisc.edu
 DTSTAMP:20261002T000000Z
 DTSTART:20261002T000000Z
