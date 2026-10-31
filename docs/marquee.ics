@@ -8,31 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:wud-4977-20261030T1830@union.wisc.edu
-DTSTAMP:20261030T233000Z
-DTSTART:20261030T233000Z
-DTEND:20261031T011500Z
-SUMMARY:Suspiria (1977)
-LOCATION:The Marquee\, Union South
-DESCRIPTION:Italy | 98 min | R | DCP | Dir. Dario Argento\n \n"An America
- n newcomer to a prestigious German ballet academy comes to realize that t
- he school is a front for something sinister amid a series of grisly murde
- rs" - IMDB\n \n"Mr. Argento's methods make potentially stomach-turning m
- aterial more interesting than it ought to be" - Janet Maslin (New York Ti
- mes)\n \nWatch the trailer here: https://www.youtube.com/watch?v=hPs2ExU
- L_bc \n \n\n \n\n \n\n \n \nFor information on available assistive 
- content for WUD Film screenings\, please visit the Assistive Movie Screen
- ings in the Marquee Theater page.  \nVisit our Informed Moviegoing Reso
- urces page for links to resources that explore film ratings and content a
- lerts.\nThis event is intended for UW-Madison students\, faculty\, staff\
- , Wisconsin Union members and their guests. Anyone can become a Wisconsin
-  Union member.\n\nhttps://union.wisc.edu/events-and-activities/event-cale
- ndar/event/wud-film-presents-suspiria-1977\n\nSource: WUD Film (The Marqu
- ee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-suspiria-1977
-END:VEVENT
-BEGIN:VEVENT
 UID:wud-4978-20261031T1830@union.wisc.edu
 DTSTAMP:20261031T233000Z
 DTSTART:20261031T233000Z
@@ -374,20 +349,19 @@ DTSTART:20261119T010000Z
 DTEND:20261119T023200Z
 SUMMARY:Parasite (2019)
 LOCATION:The Marquee\, Union South
-DESCRIPTION:South Korea | 132 min | R | Dir. Bong Joon Ho\n \n \n"Greed 
- and class discrimination threaten the newly formed symbiotic relationship
-  between the wealthy Park family and the destitute Kim clan." - IMDB\n \
- n\n \n \n"One of the best films of the decade" - Awards Circuit\n \n\n
-  \n \nWatch the trailer here: https://www.youtube.com/watch?v=isOGD_7hN
- IY \n \n\n \n \n\n \n\n \n \nFor information on available assistiv
- e content for WUD Film screenings\, please visit the Assistive Movie Scre
- enings in the Marquee Theater page.  \nVisit our Informed Moviegoing Re
- sources page for links to resources that explore film ratings and content
-  alerts.\nThis event is intended for UW-Madison students\, faculty\, staf
- f\, Wisconsin Union members and their guests. Anyone can become a Wiscons
- in Union member.\n\nhttps://union.wisc.edu/events-and-activities/event-ca
- lendar/event/wud-film-presents-parasite-2019\n\nSource: WUD Film (The Mar
- quee)
+DESCRIPTION:South Korea | 132 min | R | Dir. Bong Joon Ho\n"Greed and clas
+ s discrimination threaten the newly formed symbiotic relationship between
+  the wealthy Park family and the destitute Kim clan." - IMDB\n \n"One of
+  the best films of the decade" - Awards Circuit\n \nWatch the trailer he
+ re: https://www.youtube.com/watch?v=isOGD_7hNIY \n \n \nFor informatio
+ n on available assistive content for WUD Film screenings\, please visit t
+ he Assistive Movie Screenings in the Marquee Theater page.  \nVisit our
+  Informed Moviegoing Resources page for links to resources that explore f
+ ilm ratings and content alerts.\nThis event is intended for UW-Madison st
+ udents\, faculty\, staff\, Wisconsin Union members and their guests. Anyo
+ ne can become a Wisconsin Union member.\n\nhttps://union.wisc.edu/events-
+ and-activities/event-calendar/event/wud-film-presents-parasite-2019\n\nSo
+ urce: WUD Film (The Marquee)
 URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
  film-presents-parasite-2019
 END:VEVENT
