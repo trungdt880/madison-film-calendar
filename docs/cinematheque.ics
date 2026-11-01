@@ -8,27 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cinematheque-2800-0-1790899200@cinema.wisc.edu
-DTSTAMP:20261002T000000Z
-DTSTART:20261002T000000Z
-DTEND:20261002T014100Z
-SUMMARY:THE HISTORY OF CONCRETE
-LOCATION:UW Cinematheque\, 4070 Vilas Hall\, 821 University Ave\, Madison\
- , WI 53706
-DESCRIPTION:USA | 2026 | DCP| 101 mins.\n\nDirector: John Wilson\n\nUnsure
-  of what to do after the conclusion of his essential HBO show How To With
-  John Wilson\, first-person filmmaker John Wilson enrolls in a workshop o
- n how to create the perfect Hallmark movie. He then attempts to apply wha
- t he’s learned to a new project: a documentary about concrete. This omn
- ipresent\, overlooked building material leads him down a mind-bending arr
- ay of rabbit holes. With his signature mix of inquisitive wonder\, alert 
- street photography\, and witty\, free-associative editing\, Wilson unerri
- ngly finds funny and roundabout avenues into the profound. (MK)\n\nhttps:
- //cinema.wisc.edu/events/the-history-of-concrete/\n\nSource: UW Cinemathe
- que
-URL:https://cinema.wisc.edu/events/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2801-0-1790985600@cinema.wisc.edu
 DTSTAMP:20261003T000000Z
 DTSTART:20261003T000000Z

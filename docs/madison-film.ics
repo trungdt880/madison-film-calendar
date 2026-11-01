@@ -8,27 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cinematheque-2800-0-1790899200@cinema.wisc.edu
-DTSTAMP:20261002T000000Z
-DTSTART:20261002T000000Z
-DTEND:20261002T014100Z
-SUMMARY:THE HISTORY OF CONCRETE
-LOCATION:UW Cinematheque\, 4070 Vilas Hall\, 821 University Ave\, Madison\
- , WI 53706
-DESCRIPTION:USA | 2026 | DCP| 101 mins.\n\nDirector: John Wilson\n\nUnsure
-  of what to do after the conclusion of his essential HBO show How To With
-  John Wilson\, first-person filmmaker John Wilson enrolls in a workshop o
- n how to create the perfect Hallmark movie. He then attempts to apply wha
- t he’s learned to a new project: a documentary about concrete. This omn
- ipresent\, overlooked building material leads him down a mind-bending arr
- ay of rabbit holes. With his signature mix of inquisitive wonder\, alert 
- street photography\, and witty\, free-associative editing\, Wilson unerri
- ngly finds funny and roundabout avenues into the profound. (MK)\n\nhttps:
- //cinema.wisc.edu/events/the-history-of-concrete/\n\nSource: UW Cinemathe
- que
-URL:https://cinema.wisc.edu/events/the-history-of-concrete/
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2801-0-1790985600@cinema.wisc.edu
 DTSTAMP:20261003T000000Z
 DTSTART:20261003T000000Z
@@ -397,31 +376,6 @@ DESCRIPTION:Taiwan\, France | 1998 | 35mm | 95 min. | Mandarin with Englis
   Pictures. (JM)\n\nhttps://cinema.wisc.edu/events/the-hole/\n\nSource: UW
   Cinematheque
 URL:https://cinema.wisc.edu/events/the-hole/
-END:VEVENT
-BEGIN:VEVENT
-UID:wud-4978-20261031T1830@union.wisc.edu
-DTSTAMP:20261031T233000Z
-DTSTART:20261031T233000Z
-DTEND:20261101T011100Z
-SUMMARY:Halloween (1978) [Open Caption Screening]
-LOCATION:The Marquee\, Union South
-DESCRIPTION:USA | 91 min | R | BluRay | Dir. John Carpenter\n \nFifteen y
- ears after murdering his sister on Halloween night 1963\, Michael Myers e
- scapes from a mental hospital and returns to the small town of Haddonfiel
- d\, Illinois\, to kill again. - IMDB\n \nHalloween is an absolutely merc
- iless thriller\, a movie so violent and scary that\, yes\, I would compar
- e it to “Psycho.” - Roger Ebert\n \nWatch the trailer here:  https:
- //www.youtube.com/watch?v=3JsrH8eUVOo \n \n\n \n \n\n \n\n \n \nFo
- r information on available assistive content for WUD Film screenings\, pl
- ease visit the Assistive Movie Screenings in the Marquee Theater page. 
-  \nVisit our Informed Moviegoing Resources page for links to resources t
- hat explore film ratings and content alerts.\nThis event is intended for 
- UW-Madison students\, faculty\, staff\, Wisconsin Union members and their
-  guests. Anyone can become a Wisconsin Union member.\n\nhttps://union.wis
- c.edu/events-and-activities/event-calendar/event/wud-film-presents-hallow
- een-1978-open-caption-screening\n\nSource: WUD Film (The Marquee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-halloween-1978-open-caption-screening
 END:VEVENT
 BEGIN:VEVENT
 UID:cinematheque-2813-0-1793491200@cinema.wisc.edu
