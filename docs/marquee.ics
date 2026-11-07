@@ -8,93 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:wud-5035-20261105T1900@union.wisc.edu
-DTSTAMP:20261106T010000Z
-DTSTART:20261106T010000Z
-DTEND:20261106T025500Z
-SUMMARY:Focker-in-Law (2026) Advance Screening [Open Caption Screening]
-LOCATION:The Marquee\, Union South
-DESCRIPTION:US | 105 min | PG-13 | Dir. John Hamburg\nA young man named He
- nry\, son of Greg and Pam Focker\, faces family chaos when he decides to 
- marry a strong-willed woman who appears to be his complete mismatch. - IM
- DB\nWatch the trailer here: https://share.google/sfvbFZ8APdLBayncU \n \
- nNote to Attendees:  Due to high interest in our free advance screenings
- \, the venue will fill to full seating capacity. Once we reach capacity\,
-  no additional admission will be allowed.  For this reason\, we will be 
- strictly enforcing our "first-come\, first-served" policy for these scree
- nings.  There will be no saving of seats in the venue or spots in line.
-   If you wish to be seated as a group\, all parties must arrive and wait
-  in line together once your entire group is present (we will not allow pe
- ople to cut ahead in line to meet up with others already waiting).  No r
- ecording devices are allowed in the venue\, and all phones must be fully 
- powered down before entering the venue.  Security will be in place for t
- his screening.  To help us speed up the line\, please try to leave backp
- acks and other large bags at home and fill all available seats in the ven
- ue.  Coats and bags must be placed under seats\, as we will fill every a
- vailable seat.  Thank you for your understanding!\n \n \nFor informati
- on on available assistive content for WUD Film screenings\, please visit 
- the Assistive Movie Screenings in the Marquee Theater page.  \nVisit ou
- r Informed Moviegoing Resources page for links to resources that explore 
- film ratings and content alerts.\nThis event is intended for UW-Madison s
- tudents\, faculty\, staff\, Wisconsin Union members and their guests. Any
- one can become a Wisconsin Union member.\n\nhttps://union.wisc.edu/events
- -and-activities/event-calendar/event/wud-film-presents-focker-law-2026-ad
- vance-screening-open\n\nSource: WUD Film (The Marquee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-focker-law-2026-advance-screening-open
-END:VEVENT
-BEGIN:VEVENT
-UID:wud-5005-20261106T1830@union.wisc.edu
-DTSTAMP:20261107T003000Z
-DTSTART:20261107T003000Z
-DTEND:20261107T022000Z
-SUMMARY:The Grand Budapest Hotel (2014) [Open Caption Screening]
-LOCATION:The Marquee\, Union South
-DESCRIPTION:USA | 100 min | R | Dir. Wes Anderson\n \n"The owner of an ag
- ing high-class hotel regales a writer with tales of serving as a lobby bo
- y under an exceptional concierge in the hotel's glory years.." - IMDB\n\n
-  \n"Wes Anderson blends his trademark fanciness with a more rompish styl
- e of humour than usual." - Edward Porter (The Times)\n \nWatch the trail
- er here: https://www.youtube.com/watch?v=KVyf-fzv-mA&t=8s \n \n\n \n\n
-  \n \nFor information on available assistive content for WUD Film scree
- nings\, please visit the Assistive Movie Screenings in the Marquee Theate
- r page.  \nVisit our Informed Moviegoing Resources page for links to re
- sources that explore film ratings and content alerts.\nThis event is inte
- nded for UW-Madison students\, faculty\, staff\, Wisconsin Union members 
- and their guests. Anyone can become a Wisconsin Union member.\n\nhttps://
- union.wisc.edu/events-and-activities/event-calendar/event/wud-film-presen
- ts-grand-budapest-hotel-2014-open-caption\n\nSource: WUD Film (The Marque
- e)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-grand-budapest-hotel-2014-open-caption
-END:VEVENT
-BEGIN:VEVENT
-UID:wud-5006-20261106T2100@union.wisc.edu
-DTSTAMP:20261107T030000Z
-DTSTART:20261107T030000Z
-DTEND:20261107T045700Z
-SUMMARY:The Invite (2026) [Open Caption Screening]
-LOCATION:The Marquee\, Union South
-DESCRIPTION:USA | 107 Mins | R | Dir. Olivia Wilde\n \nJoe and Angela's m
- arriage is on thin ice. When they invite their enigmatic upstairs neighbo
- rs for a dinner party\, the night spirals into unexpected places. Have th
- ey reignited the spark or lit the match that burns it all down?-Rotten To
- matoes\n \n"The performances are impeccable\, the characters impossibly 
- well balanced. Wilde the film-maker is unimpeachable here."-Kevin Maher f
- or The Times\n\n \nWatch the trailer here: https://www.youtube.com/watch
- ?v=OJ19I9q_hOQ \n \n\n \n\n \n \nFor information on available assist
- ive content for WUD Film screenings\, please visit the Assistive Movie Sc
- reenings in the Marquee Theater page.  \nVisit our Informed Moviegoing 
- Resources page for links to resources that explore film ratings and conte
- nt alerts.\nThis event is intended for UW-Madison students\, faculty\, st
- aff\, Wisconsin Union members and their guests. Anyone can become a Wisco
- nsin Union member.\n\nhttps://union.wisc.edu/events-and-activities/event-
- calendar/event/wud-film-presents-invite-2026-open-caption-screening\n\nSo
- urce: WUD Film (The Marquee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-invite-2026-open-caption-screening
-END:VEVENT
-BEGIN:VEVENT
 UID:wud-5007-20261107T1830@union.wisc.edu
 DTSTAMP:20261108T003000Z
 DTSTART:20261108T003000Z
@@ -214,20 +127,19 @@ DTSTART:20261114T003000Z
 DTEND:20261114T021500Z
 SUMMARY:La Haine (1995)
 LOCATION:The Marquee\, Union South
-DESCRIPTION:France | 98 min | NR | Dir. Mathieu Kassovitz\n \n \n \n"24
-  hours in the lives of three young men in the French suburbs the day afte
- r a violent riot." - IMDB\n \n \n"La Haine is an unmissable response to
-  an unending emergency" - Peter Bradshaw (The Guardian)\n \n \nWatch th
- e trailer here:  https://youtu.be/FKwcXt3JIaU?si=MMmve85aV5z_FJ0x \n \
- n\n \n \n\n \n \n\n \n\n \n \nFor information on available assisti
- ve content for WUD Film screenings\, please visit the Assistive Movie Scr
- eenings in the Marquee Theater page.  \nVisit our Informed Moviegoing R
- esources page for links to resources that explore film ratings and conten
- t alerts.\nThis event is intended for UW-Madison students\, faculty\, sta
- ff\, Wisconsin Union members and their guests. Anyone can become a Wiscon
- sin Union member.\n\nhttps://union.wisc.edu/events-and-activities/event-c
- alendar/event/wud-film-presents-la-haine-1995\n\nSource: WUD Film (The Ma
- rquee)
+DESCRIPTION:France | 98 min | NR | Dir. Mathieu Kassovitz\n \n"24 hours i
+ n the lives of three young men in the French suburbs the day after a viol
+ ent riot." - IMDB\n \nLa Haine is an unmissable response to an unending 
+ emergency" - Peter Bradshaw (The Guardian)\n \nWatch the trailer here: 
+  https://youtu.be/FKwcXt3JIaU?si=MMmve85aV5z_FJ0x \n \n \n \nFor inf
+ ormation on available assistive content for WUD Film screenings\, please 
+ visit the Assistive Movie Screenings in the Marquee Theater page.  \nVi
+ sit our Informed Moviegoing Resources page for links to resources that ex
+ plore film ratings and content alerts.\nThis event is intended for UW-Mad
+ ison students\, faculty\, staff\, Wisconsin Union members and their guest
+ s. Anyone can become a Wisconsin Union member.\n\nhttps://union.wisc.edu/
+ events-and-activities/event-calendar/event/wud-film-presents-la-haine-199
+ 5\n\nSource: WUD Film (The Marquee)
 URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
  film-presents-la-haine-1995
 END:VEVENT
@@ -260,6 +172,57 @@ DESCRIPTION:US | 158 min | R | Dir. Paul Thomas Anderson\n\n"Silver miner
  e-will-be-blood-2007-open-caption\n\nSource: WUD Film (The Marquee)
 URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
  film-presents-there-will-be-blood-2007-open-caption
+END:VEVENT
+BEGIN:VEVENT
+UID:wud-5085-20261114T1830@union.wisc.edu
+DTSTAMP:20261115T003000Z
+DTSTART:20261115T003000Z
+DTEND:20261115T021500Z
+SUMMARY:12 Angry Men (1957) [Open Caption Screening]
+LOCATION:The Marquee\, Union South
+DESCRIPTION:USA | 96 min | NR | Dir. Sidney Lumet\n \n"The jury in a New 
+ York City murder trial is frustrated by a single member whose skeptical c
+ aution forces them to more carefully consider the evidence before jumping
+  to a hasty verdict." - IMDB\n \n"This is a film where tension comes fro
+ m personality conflict\, dialogue and body language\, not action." - Roge
+ r Ebert\n \nWatch the trailer here:  https://youtu.be/TEN-2uTi2c0?si=hM
+ mNQqcW9K3wSI17 \n \n \n \nFor information on available assistive cont
+ ent for WUD Film screenings\, please visit the Assistive Movie Screenings
+  in the Marquee Theater page.  \nVisit our Informed Moviegoing Resource
+ s page for links to resources that explore film ratings and content alert
+ s.\nThis event is intended for UW-Madison students\, faculty\, staff\, Wi
+ sconsin Union members and their guests. Anyone can become a Wisconsin Uni
+ on member.\n\nhttps://union.wisc.edu/events-and-activities/event-calendar
+ /event/wud-film-presents-12-angry-men-1957-open-caption\n\nSource: WUD Fi
+ lm (The Marquee)
+URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
+ film-presents-12-angry-men-1957-open-caption
+END:VEVENT
+BEGIN:VEVENT
+UID:wud-5086-20261114T2100@union.wisc.edu
+DTSTAMP:20261115T030000Z
+DTSTART:20261115T030000Z
+DTEND:20261115T053200Z
+SUMMARY:Hadestown: The Musical (2026) [Open Caption Screening]
+LOCATION:The Marquee\, Union South
+DESCRIPTION:USA | 142 min | NR | Dir. Brett Sullivan\n \n"A musical juxta
+ position of the Orpheus/Eurydice and Hades/Persephone myths that examines
+  the way real life can impact our quest for a perfect world." - IMDB\n \
+ n"A splendid opportunity for anyone who hasn’t seen 'Hadestown' onstage
+  to experience it. The audience we see at this production at the West End
+ ’s Lyric Theatre is so in love with the show that you feel every person
+  there has already seen it three times." - Owen Gleiberman (Variety)\n \
+ nWatch the trailer here:  https://www.youtube.com/watch?v=XEaYs-2kbU4 \
+ n \n \nFor information on available assistive content for WUD Film scre
+ enings\, please visit the Assistive Movie Screenings in the Marquee Theat
+ er page.  \nVisit our Informed Moviegoing Resources page for links to r
+ esources that explore film ratings and content alerts.\nThis event is int
+ ended for UW-Madison students\, faculty\, staff\, Wisconsin Union members
+  and their guests. Anyone can become a Wisconsin Union member.\n\nhttps:/
+ /union.wisc.edu/events-and-activities/event-calendar/event/wud-film-prese
+ nts-hadestown-musical-2026-open-caption\n\nSource: WUD Film (The Marquee)
+URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
+ film-presents-hadestown-musical-2026-open-caption
 END:VEVENT
 BEGIN:VEVENT
 UID:wud-5042-20261115T1600@union.wisc.edu
@@ -339,5 +302,33 @@ DESCRIPTION:South Korea | 132 min | R | Dir. Bong Joon Ho\n"Greed and clas
  urce: WUD Film (The Marquee)
 URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
  film-presents-parasite-2019
+END:VEVENT
+BEGIN:VEVENT
+UID:wud-5087-20261120T1800@union.wisc.edu
+DTSTAMP:20261121T000000Z
+DTSTART:20261121T000000Z
+DTEND:20261121T021200Z
+SUMMARY:Almost Famous (2000)
+LOCATION:The Marquee\, Union South
+DESCRIPTION:USA | 122 min | R | Dir: Cameron Crowe\n \n"Set in 1973\, it 
+ chronicles the funny and often poignant coming of age of 15-year-old Will
+ iam\, an unabashed music fan who is inspired by the seminal bands of the 
+ time. When his love of music lands him an assignment from Rolling Stone M
+ agazine to interview the up-and-coming band Stillwater \, William embarks
+  on an eye-opening journey with the band's tour\, despite the objections 
+ of his protective mother. -Rotten Tomatoes"\n \n"Oh\, what a lovely film
+ . I was almost hugging myself while I watched it."\n-Roger Ebert of the C
+ hicago Sun-Times\n \nWatch the trailer here:  https://www.youtube.com/w
+ atch?v=aQXh_AaJXaM \n \n \n \nFor information on available assistive 
+ content for WUD Film screenings\, please visit the Assistive Movie Screen
+ ings in the Marquee Theater page.  \nVisit our Informed Moviegoing Reso
+ urces page for links to resources that explore film ratings and content a
+ lerts.\nThis event is intended for UW-Madison students\, faculty\, staff\
+ , Wisconsin Union members and their guests. Anyone can become a Wisconsin
+  Union member.\n\nhttps://union.wisc.edu/events-and-activities/event-cale
+ ndar/event/wud-film-presents-almost-famous-2000\n\nSource: WUD Film (The 
+ Marquee)
+URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
+ film-presents-almost-famous-2000
 END:VEVENT
 END:VCALENDAR
