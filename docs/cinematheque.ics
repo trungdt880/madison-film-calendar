@@ -8,45 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cinematheque-2806-0-1791676800@cinema.wisc.edu
-DTSTAMP:20261011T000000Z
-DTSTART:20261011T000000Z
-DTEND:20261011T014100Z
-SUMMARY:WHITE NIGHTS (LE NOTTI BIANCHE)
-LOCATION:UW Cinematheque\, 4070 Vilas Hall\, 821 University Ave\, Madison\
- , WI 53706
-DESCRIPTION:Italy | 1957 | DCP | 101 min. | Italian with English subtitles
- \n\nDirector: Luchino Visconti\n\nCast: Marcello Mastroianni\, Maria Sche
- ll\, Jean Marais\n\nVisconti’s ravishing adaptation of a Dostoevsky sto
- ry stars Mastroianni and Schell as two lonely souls whose chance meeting 
- on a moonlit canal blossoms into a fragile romance haunted by past loves 
- and melancholy longing. Set within a dreamlike\, studio-built city of sha
- dowy streets and shimmering canals\, the film transforms a fleeting encou
- nter into an achingly beautiful meditation on love. This new 4K restorati
- on brings the breathtaking black-and-white imagery of Le notti bianche ba
- ck to the big screen\, allowing cinema viewers to discover one of the gre
- at masterpieces of postwar Italian cinema.\n\nhttps://cinema.wisc.edu/eve
- nts/white-nights-le-notti-bianche/\n\nSource: UW Cinematheque
-URL:https://cinema.wisc.edu/events/white-nights-le-notti-bianche/
-END:VEVENT
-BEGIN:VEVENT
-UID:cinematheque-3084-0-1791745200@cinema.wisc.edu
-DTSTAMP:20261011T190000Z
-DTSTART:20261011T190000Z
-DTEND:20261011T211100Z
-SUMMARY:SENSE AND SENSIBILITY – Free Advance Screening!
-LOCATION:UW Cinematheque
-DESCRIPTION:USA\, UK | 2026 | DCP | 131 min.\n\nDirector: Georgia Oakley\n
- \nCast: Daisy Edgar-Jones\, Esmé Creed-Miles\, George MacKay\n\nFrom di
- rector Georgia Oakley (Blue Jean\, WFF 2023) comes an irresistible new ta
- ke on Jane Austen’s canonical novel Sense and Sensibility: a charming\,
-  witty\, and deeply relatable story of love and sisterhood. This free adv
- ance screening is courtesy Focus Features. Sense and Sensibility opens 
- in theaters October 16.\n\nhttps://cinema.wisc.edu/events/sense-and-sensi
- bility/\n\nSource: UW Cinematheque
-URL:https://cinema.wisc.edu/events/sense-and-sensibility/
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2807-0-1792108800@cinema.wisc.edu
 DTSTAMP:20261016T000000Z
 DTSTART:20261016T000000Z
