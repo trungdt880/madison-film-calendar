@@ -8,26 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cinematheque-2807-0-1792108800@cinema.wisc.edu
-DTSTAMP:20261016T000000Z
-DTSTART:20261016T000000Z
-DTEND:20261016T022600Z
-SUMMARY:FJORD
-LOCATION:UW Cinematheque\, 4070 Vilas Hall\, 821 University Ave\, Madison\
- , WI 53706
-DESCRIPTION:Romania\, France\, Norway\, Sweden\, Denmark | 2026 | DCP | 14
- 6 min. | Romanian\, Norwegian\, English\, Swedish with English subtitles\
- n\nDirector: Cristian Mungiu\n\nCast: Sebastian Stan\, Renate Reinsve\n\n
- Winner of the Palme d’Or at the 2026 Cannes Film Festival\, Fjord stars
-  Sebastian Stan and Renate Reinsve as a devout couple who move their fami
- ly from Romania to Norway. Their belief system puts them at odds with the
- ir new\, overwhelmingly secular community. The latest from 4 Months\, 3 W
- eeks and 2 Days director Cristian Mungiu is a characteristically knotty i
- nquiry into the double standards of liberal tolerance. (MK)\n\nhttps://ci
- nema.wisc.edu/events/fjord/\n\nSource: UW Cinematheque
-URL:https://cinema.wisc.edu/events/fjord/
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2527-0-1792191600@cinema.wisc.edu
 DTSTAMP:20261016T230000Z
 DTSTART:20261016T230000Z
@@ -344,29 +324,6 @@ DESCRIPTION:USA | 2026 | DCP | 105 min.\n\nDirector: Jesse Eisenberg\n\nCa
 URL:https://cinema.wisc.edu/events/the-debut/
 END:VEVENT
 BEGIN:VEVENT
-UID:wud-5048-20261113T1830@union.wisc.edu
-DTSTAMP:20261114T003000Z
-DTSTART:20261114T003000Z
-DTEND:20261114T021500Z
-SUMMARY:La Haine (1995)
-LOCATION:The Marquee\, Union South
-DESCRIPTION:France | 98 min | NR | Dir. Mathieu Kassovitz\n \n"24 hours i
- n the lives of three young men in the French suburbs the day after a viol
- ent riot." - IMDB\n \nLa Haine is an unmissable response to an unending 
- emergency" - Peter Bradshaw (The Guardian)\n \nWatch the trailer here: 
-  https://youtu.be/FKwcXt3JIaU?si=MMmve85aV5z_FJ0x \n \n \n \nFor inf
- ormation on available assistive content for WUD Film screenings\, please 
- visit the Assistive Movie Screenings in the Marquee Theater page.  \nVi
- sit our Informed Moviegoing Resources page for links to resources that ex
- plore film ratings and content alerts.\nThis event is intended for UW-Mad
- ison students\, faculty\, staff\, Wisconsin Union members and their guest
- s. Anyone can become a Wisconsin Union member.\n\nhttps://union.wisc.edu/
- events-and-activities/event-calendar/event/wud-film-presents-la-haine-199
- 5\n\nSource: WUD Film (The Marquee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-la-haine-1995
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2819-0-1794618000@cinema.wisc.edu
 DTSTAMP:20261114T010000Z
 DTSTART:20261114T010000Z
@@ -386,61 +343,6 @@ DESCRIPTION:India | 2012 | DCP | 145 min. | Telugu with English subtitles\
  solutely unique” (Screen Anarchy). (MK)\n\nhttps://cinema.wisc.edu/even
  ts/eega/\n\nSource: UW Cinematheque
 URL:https://cinema.wisc.edu/events/eega/
-END:VEVENT
-BEGIN:VEVENT
-UID:wud-5049-20261113T2045@union.wisc.edu
-DTSTAMP:20261114T024500Z
-DTSTART:20261114T024500Z
-DTEND:20261114T053300Z
-SUMMARY:There Will Be Blood (2007) [Open Caption Screening]
-LOCATION:The Marquee\, Union South
-DESCRIPTION:US | 158 min | R | Dir. Paul Thomas Anderson\n\n"Silver miner 
- Daniel Plainview (Daniel Day-Lewis) leads a hardscrabble life with his so
- n\, H.W. (Dillon Freasier). When he hears about oil oozing from the groun
- d near the Western town of Little Boston\, Daniel takes his son on a miss
- ion to find their fortune. Daniel makes his lucky strike and becomes a se
- lf-made tycoon but\, as his fortune grows\, he deviates into moral bankru
- ptcy." - Rotten Tomatoes\n"The film is above all a consummate work of art
- \, one that transcends the historically fraught context of its making\, a
- nd its pleasures are unapologetically aesthetic. It reveals\, excites\, d
- isturbs\, provokes\, but the window it opens is to human consciousness it
- self."        - Manohla Dargis for New York Times\n \n \n \nWatch 
- the trailer here: https://www.youtube.com/watch?v=FeSLPELpMeM \n \n \n
- For information on available assistive content for WUD Film screenings\, 
- please visit the Assistive Movie Screenings in the Marquee Theater page.
-   \nVisit our Informed Moviegoing Resources page for links to resources
-  that explore film ratings and content alerts.\nThis event is intended fo
- r UW-Madison students\, faculty\, staff\, Wisconsin Union members and the
- ir guests. Anyone can become a Wisconsin Union member.\n\nhttps://union.w
- isc.edu/events-and-activities/event-calendar/event/wud-film-presents-ther
- e-will-be-blood-2007-open-caption\n\nSource: WUD Film (The Marquee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-there-will-be-blood-2007-open-caption
-END:VEVENT
-BEGIN:VEVENT
-UID:wud-5085-20261114T1830@union.wisc.edu
-DTSTAMP:20261115T003000Z
-DTSTART:20261115T003000Z
-DTEND:20261115T021500Z
-SUMMARY:12 Angry Men (1957) [Open Caption Screening]
-LOCATION:The Marquee\, Union South
-DESCRIPTION:USA | 96 min | NR | Dir. Sidney Lumet\n \n"The jury in a New 
- York City murder trial is frustrated by a single member whose skeptical c
- aution forces them to more carefully consider the evidence before jumping
-  to a hasty verdict." - IMDB\n \n"This is a film where tension comes fro
- m personality conflict\, dialogue and body language\, not action." - Roge
- r Ebert\n \nWatch the trailer here:  https://youtu.be/TEN-2uTi2c0?si=hM
- mNQqcW9K3wSI17 \n \n \n \nFor information on available assistive cont
- ent for WUD Film screenings\, please visit the Assistive Movie Screenings
-  in the Marquee Theater page.  \nVisit our Informed Moviegoing Resource
- s page for links to resources that explore film ratings and content alert
- s.\nThis event is intended for UW-Madison students\, faculty\, staff\, Wi
- sconsin Union members and their guests. Anyone can become a Wisconsin Uni
- on member.\n\nhttps://union.wisc.edu/events-and-activities/event-calendar
- /event/wud-film-presents-12-angry-men-1957-open-caption\n\nSource: WUD Fi
- lm (The Marquee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-12-angry-men-1957-open-caption
 END:VEVENT
 BEGIN:VEVENT
 UID:cinematheque-2820-0-1794704400@cinema.wisc.edu
@@ -464,32 +366,6 @@ DESCRIPTION:India | 2022 | DCP | 183 min. | Telugu with English subtitles\
   Original Song Oscar for its centerpiece number\, “Naatu Naatu.” (JM)
  \n\nhttps://cinema.wisc.edu/events/rrr/\n\nSource: UW Cinematheque
 URL:https://cinema.wisc.edu/events/rrr/
-END:VEVENT
-BEGIN:VEVENT
-UID:wud-5086-20261114T2100@union.wisc.edu
-DTSTAMP:20261115T030000Z
-DTSTART:20261115T030000Z
-DTEND:20261115T053200Z
-SUMMARY:Hadestown: The Musical (2026) [Open Caption Screening]
-LOCATION:The Marquee\, Union South
-DESCRIPTION:USA | 142 min | NR | Dir. Brett Sullivan\n \n"A musical juxta
- position of the Orpheus/Eurydice and Hades/Persephone myths that examines
-  the way real life can impact our quest for a perfect world." - IMDB\n \
- n"A splendid opportunity for anyone who hasn’t seen 'Hadestown' onstage
-  to experience it. The audience we see at this production at the West End
- ’s Lyric Theatre is so in love with the show that you feel every person
-  there has already seen it three times." - Owen Gleiberman (Variety)\n \
- nWatch the trailer here:  https://www.youtube.com/watch?v=XEaYs-2kbU4 \
- n \n \nFor information on available assistive content for WUD Film scre
- enings\, please visit the Assistive Movie Screenings in the Marquee Theat
- er page.  \nVisit our Informed Moviegoing Resources page for links to r
- esources that explore film ratings and content alerts.\nThis event is int
- ended for UW-Madison students\, faculty\, staff\, Wisconsin Union members
-  and their guests. Anyone can become a Wisconsin Union member.\n\nhttps:/
- /union.wisc.edu/events-and-activities/event-calendar/event/wud-film-prese
- nts-hadestown-musical-2026-open-caption\n\nSource: WUD Film (The Marquee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-hadestown-musical-2026-open-caption
 END:VEVENT
 BEGIN:VEVENT
 UID:cinematheque-2821-0-1794772800@cinema.wisc.edu

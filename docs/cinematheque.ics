@@ -8,26 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cinematheque-2807-0-1792108800@cinema.wisc.edu
-DTSTAMP:20261016T000000Z
-DTSTART:20261016T000000Z
-DTEND:20261016T022600Z
-SUMMARY:FJORD
-LOCATION:UW Cinematheque\, 4070 Vilas Hall\, 821 University Ave\, Madison\
- , WI 53706
-DESCRIPTION:Romania\, France\, Norway\, Sweden\, Denmark | 2026 | DCP | 14
- 6 min. | Romanian\, Norwegian\, English\, Swedish with English subtitles\
- n\nDirector: Cristian Mungiu\n\nCast: Sebastian Stan\, Renate Reinsve\n\n
- Winner of the Palme d’Or at the 2026 Cannes Film Festival\, Fjord stars
-  Sebastian Stan and Renate Reinsve as a devout couple who move their fami
- ly from Romania to Norway. Their belief system puts them at odds with the
- ir new\, overwhelmingly secular community. The latest from 4 Months\, 3 W
- eeks and 2 Days director Cristian Mungiu is a characteristically knotty i
- nquiry into the double standards of liberal tolerance. (MK)\n\nhttps://ci
- nema.wisc.edu/events/fjord/\n\nSource: UW Cinematheque
-URL:https://cinema.wisc.edu/events/fjord/
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2527-0-1792191600@cinema.wisc.edu
 DTSTAMP:20261016T230000Z
 DTSTART:20261016T230000Z
