@@ -8,62 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:wud-5042-20261115T1600@union.wisc.edu
-DTSTAMP:20261115T220000Z
-DTSTART:20261115T220000Z
-DTEND:20261116T000000Z
-SUMMARY:Good Boy (2025) [Polish Film Festival]
-LOCATION:The Marquee\, Union South
-DESCRIPTION:Poland | 110 min | NR | Dir. Jan Komasa\n \n"A 19-year-old cr
- iminal\, Tommy\, is kidnapped and forced into a rehabilitation process by
-  a dysfunctional couple\, Chris and Kathryn\, who try to make him a "good
-  boy." Tommy must find a way to escape". -IMDB\n"Simply sublime\, dark\, 
- and unnerving" - BOOM\nWatch the trailer here: https://www.imdb.com/video
- /vi866241305/?ref_=tt_vids_vi_t_2 \n \nThe Madison Polish Film Festival
-  is a free annual event organized by the UW-Madison Polish Student Associ
- ation in collaboration with the Department of German\, Nordic\, and Slavi
- c+ and Wisconsin Union Directorate (WUD) Film Committee\, and sponsored b
- y the Lapinski Family Fund\, CREECA\, and the Polish Heritage Club of Mad
- ison.  \n \n \nFor information on available assistive content for WUD 
- Film screenings\, please visit the Assistive Movie Screenings in the Marq
- uee Theater page.  \nVisit our Informed Moviegoing Resources page for l
- inks to resources that explore film ratings and content alerts.\nThis eve
- nt is intended for UW-Madison students\, faculty\, staff\, Wisconsin Unio
- n members and their guests. Anyone can become a Wisconsin Union member.\n
- \nhttps://union.wisc.edu/events-and-activities/event-calendar/event/wud-f
- ilm-presents-good-boy-2025-polish-film-festival\n\nSource: WUD Film (The 
- Marquee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-good-boy-2025-polish-film-festival
-END:VEVENT
-BEGIN:VEVENT
-UID:wud-5045-20261115T1830@union.wisc.edu
-DTSTAMP:20261116T003000Z
-DTSTART:20261116T003000Z
-DTEND:20261116T024000Z
-SUMMARY:The Duel/Gorky Resort (2026) [Polish Film Festival]
-LOCATION:The Marquee\, Union South
-DESCRIPTION:Poland | 113 min | NR | Dir. Lukasz Palkowski\n \n"Confronted
-  with a malevolent interrogator in a Soviet prisoner-of-war camp\, a youn
- g Polish lieutenant fights for his life and the soul of his country."\nWa
- tch the trailer here: https://www.youtube.com/watch?v=OmqnHUr2AkA \n \n
- The Madison Polish Film Festival is a free annual event organized by the 
- UW-Madison Polish Student Association in collaboration with the Departmen
- t of German\, Nordic\, and Slavic+ and Wisconsin Union Directorate (WUD) 
- Film Committee\, and sponsored by the Lapinski Family Fund\, CREECA\, and
-  the Polish Heritage Club of Madison.  \n \nFor information on availabl
- e assistive content for WUD Film screenings\, please visit the Assistive 
- Movie Screenings in the Marquee Theater page.  \nVisit our Informed Mov
- iegoing Resources page for links to resources that explore film ratings a
- nd content alerts.\nThis event is intended for UW-Madison students\, facu
- lty\, staff\, Wisconsin Union members and their guests. Anyone can become
-  a Wisconsin Union member.\n\nhttps://union.wisc.edu/events-and-activitie
- s/event-calendar/event/wud-film-presents-duelgorky-resort-2026-polish-fil
- m\n\nSource: WUD Film (The Marquee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-duelgorky-resort-2026-polish-film
-END:VEVENT
-BEGIN:VEVENT
 UID:wud-5047-20261118T1900@union.wisc.edu
 DTSTAMP:20261119T010000Z
 DTSTART:20261119T010000Z
