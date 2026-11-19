@@ -8,28 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cinematheque-2809-0-1792350000@cinema.wisc.edu
-DTSTAMP:20261018T190000Z
-DTSTART:20261018T190000Z
-DTEND:20261018T204000Z
-SUMMARY:Zeitgeist Shorts
-LOCATION:Chazen Museum of Art\, 750 University Ave\, Madison\, WI 53706
-DESCRIPTION:16mm/35mm| 100 min.\n\nFar more than most distributors\, Zeitg
- eist Films goes to bat for visionary cinema that do not fit into the trad
- itional two-hour theatrical runtime. Their eclectic collection includes t
- he short film catalog of stop-motion masters Jan Švankmajer and The Brot
- hers Quay\, as well as the mind-bending early work of Peter Greenaway. Ze
- itgeist also celebrated new voices\, including the fascinating shorts pro
- duced by Apparatus\, a nonprofit founded by Todd Haynes and Christine Vac
- hon to support emerging filmmakers. The program includes Food (Švankmaje
- r\, 1992\, 17 min.)\, He Was Once (Mary Hestand\, 1989\, 16 min.)\, Stree
- t of Crocodiles (Quay\, 1986\, 21 min.)\, We’re Talking Vulva (Tracy Tr
- aeger & Shawna Dempsey\, 1990\, 5 min.)\, and A Walk Through H (Greenaway
- \, 1978\, 41 min.). (MK)\n\nhttps://cinema.wisc.edu/events/zeitgeist-shor
- ts/\n\nSource: UW Cinematheque
-URL:https://cinema.wisc.edu/events/zeitgeist-shorts/
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2810-0-1792713600@cinema.wisc.edu
 DTSTAMP:20261023T000000Z
 DTSTART:20261023T000000Z
@@ -345,29 +323,6 @@ DESCRIPTION:India | 2017 | DCP | 158 min. | Telugu with English subtitles\
 URL:https://cinema.wisc.edu/events/baahubali-2-the-conclusion/
 END:VEVENT
 BEGIN:VEVENT
-UID:wud-5047-20261118T1900@union.wisc.edu
-DTSTAMP:20261119T010000Z
-DTSTART:20261119T010000Z
-DTEND:20261119T023200Z
-SUMMARY:Parasite (2019)
-LOCATION:The Marquee\, Union South
-DESCRIPTION:South Korea | 132 min | R | Dir. Bong Joon Ho\n"Greed and clas
- s discrimination threaten the newly formed symbiotic relationship between
-  the wealthy Park family and the destitute Kim clan." - IMDB\n \n"One of
-  the best films of the decade" - Awards Circuit\n \nWatch the trailer he
- re: https://www.youtube.com/watch?v=isOGD_7hNIY \n \n \nFor informatio
- n on available assistive content for WUD Film screenings\, please visit t
- he Assistive Movie Screenings in the Marquee Theater page.  \nVisit our
-  Informed Moviegoing Resources page for links to resources that explore f
- ilm ratings and content alerts.\nThis event is intended for UW-Madison st
- udents\, faculty\, staff\, Wisconsin Union members and their guests. Anyo
- ne can become a Wisconsin Union member.\n\nhttps://union.wisc.edu/events-
- and-activities/event-calendar/event/wud-film-presents-parasite-2019\n\nSo
- urce: WUD Film (The Marquee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-parasite-2019
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2822-0-1795136400@cinema.wisc.edu
 DTSTAMP:20261120T010000Z
 DTSTART:20261120T010000Z
@@ -653,7 +608,7 @@ UID:wud-5093-20261204T2100@union.wisc.edu
 DTSTAMP:20261205T030000Z
 DTSTART:20261205T030000Z
 DTEND:20261205T051900Z
-SUMMARY:It's a Wonderful Life (1946)
+SUMMARY:It's a Wonderful Life (1946) [Open Caption Screening]
 LOCATION:The Marquee\, Union South
 DESCRIPTION:PG | 131 min | PG | Dir. Frank Capra\n \n"An angel is sent fr
  om Heaven to help a desperately frustrated businessman see the value of h
@@ -670,9 +625,9 @@ DESCRIPTION:PG | 131 min | PG | Dir. Frank Capra\n \n"An angel is sent fr
  nded for UW-Madison students\, faculty\, staff\, Wisconsin Union members 
  and their guests. Anyone can become a Wisconsin Union member.\n\nhttps://
  union.wisc.edu/events-and-activities/event-calendar/event/wud-film-presen
- ts-its-wonderful-life-1946\n\nSource: WUD Film (The Marquee)
+ ts-its-wonderful-life-1946-open-caption\n\nSource: WUD Film (The Marquee)
 URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-its-wonderful-life-1946
+ film-presents-its-wonderful-life-1946-open-caption
 END:VEVENT
 BEGIN:VEVENT
 UID:cinematheque-2829-0-1796500800@cinema.wisc.edu
@@ -721,7 +676,7 @@ UID:wud-5094-20261205T1830@union.wisc.edu
 DTSTAMP:20261206T003000Z
 DTSTART:20261206T003000Z
 DTEND:20261206T022300Z
-SUMMARY:Home Alone (1990)
+SUMMARY:Home Alone (1990) [Open Caption Screening]
 LOCATION:The Marquee\, Union South
 DESCRIPTION:US | 103 min | PG | Dir. Chris Columbus\n \nWhen bratty 8-yea
  r-old Kevin McCallister acts out the night before a family trip to Paris\
@@ -740,9 +695,9 @@ DESCRIPTION:US | 103 min | PG | Dir. Chris Columbus\n \nWhen bratty 8-yea
   for UW-Madison students\, faculty\, staff\, Wisconsin Union members and 
  their guests. Anyone can become a Wisconsin Union member.\n\nhttps://unio
  n.wisc.edu/events-and-activities/event-calendar/event/wud-film-presents-h
- ome-alone-1990\n\nSource: WUD Film (The Marquee)
+ ome-alone-1990-open-caption-screening\n\nSource: WUD Film (The Marquee)
 URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-home-alone-1990
+ film-presents-home-alone-1990-open-caption-screening
 END:VEVENT
 BEGIN:VEVENT
 UID:cinematheque-2831-0-1796518800@cinema.wisc.edu
@@ -770,7 +725,7 @@ UID:wud-5095-20261205T2100@union.wisc.edu
 DTSTAMP:20261206T030000Z
 DTSTART:20261206T030000Z
 DTEND:20261206T044800Z
-SUMMARY:Fargo (1996)
+SUMMARY:Fargo (1996) [Open Caption Screening]
 LOCATION:The Marquee\, Union South
 DESCRIPTION:US | 98 Mins | R | Dir. Coen Brothers\n \n"A car salesman's i
  nept crime falls apart due to his and his henchmen's bungling and the per
@@ -785,9 +740,10 @@ DESCRIPTION:US | 98 Mins | R | Dir. Coen Brothers\n \n"A car salesman's i
  s event is intended for UW-Madison students\, faculty\, staff\, Wisconsin
   Union members and their guests. Anyone can become a Wisconsin Union memb
  er.\n\nhttps://union.wisc.edu/events-and-activities/event-calendar/event/
- wud-film-presents-fargo-1996-1\n\nSource: WUD Film (The Marquee)
+ wud-film-presents-fargo-1996-open-caption-screening\n\nSource: WUD Film (
+ The Marquee)
 URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-fargo-1996-1
+ film-presents-fargo-1996-open-caption-screening
 END:VEVENT
 BEGIN:VEVENT
 UID:cinematheque-2832-0-1796580000@cinema.wisc.edu

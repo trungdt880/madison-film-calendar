@@ -8,28 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cinematheque-2809-0-1792350000@cinema.wisc.edu
-DTSTAMP:20261018T190000Z
-DTSTART:20261018T190000Z
-DTEND:20261018T204000Z
-SUMMARY:Zeitgeist Shorts
-LOCATION:Chazen Museum of Art\, 750 University Ave\, Madison\, WI 53706
-DESCRIPTION:16mm/35mm| 100 min.\n\nFar more than most distributors\, Zeitg
- eist Films goes to bat for visionary cinema that do not fit into the trad
- itional two-hour theatrical runtime. Their eclectic collection includes t
- he short film catalog of stop-motion masters Jan Švankmajer and The Brot
- hers Quay\, as well as the mind-bending early work of Peter Greenaway. Ze
- itgeist also celebrated new voices\, including the fascinating shorts pro
- duced by Apparatus\, a nonprofit founded by Todd Haynes and Christine Vac
- hon to support emerging filmmakers. The program includes Food (Švankmaje
- r\, 1992\, 17 min.)\, He Was Once (Mary Hestand\, 1989\, 16 min.)\, Stree
- t of Crocodiles (Quay\, 1986\, 21 min.)\, We’re Talking Vulva (Tracy Tr
- aeger & Shawna Dempsey\, 1990\, 5 min.)\, and A Walk Through H (Greenaway
- \, 1978\, 41 min.). (MK)\n\nhttps://cinema.wisc.edu/events/zeitgeist-shor
- ts/\n\nSource: UW Cinematheque
-URL:https://cinema.wisc.edu/events/zeitgeist-shorts/
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2810-0-1792713600@cinema.wisc.edu
 DTSTAMP:20261023T000000Z
 DTSTART:20261023T000000Z
