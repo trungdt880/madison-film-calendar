@@ -343,34 +343,6 @@ DESCRIPTION:USA | DCP | 2026 | 100 min. | French\, English\, German\, and
 URL:https://cinema.wisc.edu/events/chronovisor/
 END:VEVENT
 BEGIN:VEVENT
-UID:wud-5087-20261120T1800@union.wisc.edu
-DTSTAMP:20261121T000000Z
-DTSTART:20261121T000000Z
-DTEND:20261121T021200Z
-SUMMARY:Almost Famous (2000)
-LOCATION:The Marquee\, Union South
-DESCRIPTION:USA | 122 min | R | Dir: Cameron Crowe\n \n"Set in 1973\, it 
- chronicles the funny and often poignant coming of age of 15-year-old Will
- iam\, an unabashed music fan who is inspired by the seminal bands of the 
- time. When his love of music lands him an assignment from Rolling Stone M
- agazine to interview the up-and-coming band Stillwater \, William embarks
-  on an eye-opening journey with the band's tour\, despite the objections 
- of his protective mother. -Rotten Tomatoes"\n \n"Oh\, what a lovely film
- . I was almost hugging myself while I watched it."\n-Roger Ebert of the C
- hicago Sun-Times\n \nWatch the trailer here:  https://www.youtube.com/w
- atch?v=aQXh_AaJXaM \n \n \n \nFor information on available assistive 
- content for WUD Film screenings\, please visit the Assistive Movie Screen
- ings in the Marquee Theater page.  \nVisit our Informed Moviegoing Reso
- urces page for links to resources that explore film ratings and content a
- lerts.\nThis event is intended for UW-Madison students\, faculty\, staff\
- , Wisconsin Union members and their guests. Anyone can become a Wisconsin
-  Union member.\n\nhttps://union.wisc.edu/events-and-activities/event-cale
- ndar/event/wud-film-presents-almost-famous-2000\n\nSource: WUD Film (The 
- Marquee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-almost-famous-2000
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2823-0-1795222800@cinema.wisc.edu
 DTSTAMP:20261121T010000Z
 DTSTART:20261121T010000Z
@@ -394,35 +366,6 @@ DESCRIPTION:USA | 1930 | 35mm | 102 min.\n\nDirector: Ernst Lubitsch\, Edm
  tps://cinema.wisc.edu/events/paramount-on-parade/\n\nSource: UW Cinemathe
  que
 URL:https://cinema.wisc.edu/events/paramount-on-parade/
-END:VEVENT
-BEGIN:VEVENT
-UID:wud-5088-20261120T2100@union.wisc.edu
-DTSTAMP:20261121T030000Z
-DTSTART:20261121T030000Z
-DTEND:20261121T052600Z
-SUMMARY:The Matrix (1999) [Open Caption Screening]
-LOCATION:The Marquee\, Union South
-DESCRIPTION:USA | 140 min | R | Dir. The Wachowskis\n \n"Neo believes tha
- t Morpheus\, an elusive figure considered to be the most dangerous man al
- ive\, can answer his question -- What is the Matrix? Neo is contacted by 
- Trinity\, a beautiful stranger who leads him into an underworld where he 
- meets Morpheus. They fight a brutal battle for their lives against a cadr
- e of viciously intelligent secret agents. It is a truth that could cost N
- eo something more precious than his life." - Rotten Tomatoes\n \n"The me
- taphorical properties of The Matrix are part of what makes it so seductiv
- e\, along with the no-filler-all-killer action."-Peter Bradshaw of the Gu
- ardian\n\n \n \nWatch the trailer here:  https://www.youtube.com/watch
- ?v=ywmaUcIH30w \n \n\n \nFor information on available assistive conten
- t for WUD Film screenings\, please visit the Assistive Movie Screenings i
- n the Marquee Theater page.  \nVisit our Informed Moviegoing Resources 
- page for links to resources that explore film ratings and content alerts.
- \nThis event is intended for UW-Madison students\, faculty\, staff\, Wisc
- onsin Union members and their guests. Anyone can become a Wisconsin Union
-  member.\n\nhttps://union.wisc.edu/events-and-activities/event-calendar/e
- vent/wud-film-presents-matrix-1999-open-caption-screening\n\nSource: WUD 
- Film (The Marquee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-matrix-1999-open-caption-screening
 END:VEVENT
 BEGIN:VEVENT
 UID:wud-5089-20261121T1830@union.wisc.edu
@@ -524,16 +467,16 @@ DTEND:20261204T023500Z
 SUMMARY:BUDDY – Casper Kelly in Person!
 LOCATION:UW Cinematheque\, 4070 Vilas Hall\, 821 University Ave\, Madison\
  , WI 53706
-DESCRIPTION:USA | 2026 | DCP | 95 min.\n\nDirector: Casper Kelly\n\nCast: 
- Delaney Quinn\, Cristin Milioti\, Topher Grace\n\nIn the first theatrical
- ly released feature from the inventive mind of writer/director Casper Kel
- ly\, a brave girl and her friends must escape a kids television show. A w
- ild\, unpredictable\, sometimes blood-soaked horror comedy\, Buddy featur
- es stellar work from the cast\, especially young lead Delaney Quinn\, and
-  guest appearances from Patton Oswalt\, Michael Shannon\, and Keegan-Mich
- ael Key as the title character. Casper Kelly will join us in person for a
-  post-screening discussion!\n\nhttps://cinema.wisc.edu/events/buddy/\n\nS
- ource: UW Cinematheque
+DESCRIPTION:USA | 2026 | 35mm | 95 min.\n\nDirector: Casper Kelly\n\nCast:
+  Delaney Quinn\, Cristin Milioti\, Topher Grace\n\nIn the first theatrica
+ lly released feature from the inventive mind of writer/director Casper Ke
+ lly\, a brave girl and her friends must escape a kids television show. A 
+ wild\, unpredictable\, sometimes blood-soaked horror comedy\, Buddy featu
+ res stellar work from the cast\, especially young lead Delaney Quinn\, an
+ d guest appearances from Patton Oswalt\, Michael Shannon\, and Keegan-Mic
+ hael Key as the title character. Casper Kelly will join us in person for 
+ a discussion\, after the screening of Buddy on a new 35mm print!\n\nhtt
+ ps://cinema.wisc.edu/events/buddy/\n\nSource: UW Cinematheque
 URL:https://cinema.wisc.edu/events/buddy/
 END:VEVENT
 BEGIN:VEVENT
