@@ -8,49 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cinematheque-2810-0-1792713600@cinema.wisc.edu
-DTSTAMP:20261023T000000Z
-DTSTART:20261023T000000Z
-DTEND:20261023T014000Z
-SUMMARY:ONCE UPON A TIME IN HARLEM
-LOCATION:UW Cinematheque\, 4070 Vilas Hall\, 821 University Ave\, Madison\
- , WI 53706
-DESCRIPTION:USA | 2026 | DCP| 100 mins.\n\nDirector: David Greaves\n\nOn a
-  summer day in 1972\, many of the key figures of the Harlem Renaissance c
- onvened for a party at Duke Ellington’s apartment\, where they reminisc
- ed and debated their legacy. This lively\, once-in-a-lifetime reunion was
-  captured on 16mm by Symbiopsychotaxiplasm director William Greaves. Over
-  fifty years later\, that footage has finally been edited into this inval
- uable document\, a double reflection spanning 100 years of Black American
-  art. “One of the greatest talking pictures\, one of the greatest cinem
- atic works of creative nonfiction\, that I’ve ever seen” (Richard Bro
- dy\, The New Yorker). (MK)\n\nhttps://cinema.wisc.edu/events/once-upon-a-
- time-in-harlem/\n\nSource: UW Cinematheque
-URL:https://cinema.wisc.edu/events/once-upon-a-time-in-harlem/
-END:VEVENT
-BEGIN:VEVENT
-UID:cinematheque-2526-0-1792800000@cinema.wisc.edu
-DTSTAMP:20261024T000000Z
-DTSTART:20261024T000000Z
-DTEND:20261024T022300Z
-SUMMARY:THE TASTE OF TEA
-LOCATION:UW Cinematheque\, 4084 Vilas Hall\, 821 University Ave\, Madison\
- , WI 53706
-DESCRIPTION:Japan | 2004 | DCP | 143 min. | Japanese with English subtitle
- s\n\nDirector: Katsuhito Ishii\n\nCast: Takahiro Sato\, Maya Sakano\, Tad
- anobu Asano\n\nIn the quiet Japanese countryside\, a series of surreal an
- d comic episodes explore a wildly unconventional family: an artist mother
-  obsessed with animation\, a hypnotherapist father\, a lovestruck teenage
-  son\, a daughter haunted by a double\, and an uncle troubled by ghosts o
- f the past. Director Katsuhito Ishii\, who contributed the anime sequence
-  to Kill Bill\, crafts an eccentric portrait of domestic life that blends
-  deadpan humor\, musical interludes\, animated flourishes\, and dreamlike
-  imagery. Both playful and deeply odd\, The Taste of Tea is “the most c
- harming comedy in town\,” (Michael Phillips\, Chicago Tribune).\n\nhttp
- s://cinema.wisc.edu/events/the-taste-of-tea/\n\nSource: UW Cinematheque
-URL:https://cinema.wisc.edu/events/the-taste-of-tea/
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2522-0-1792886400@cinema.wisc.edu
 DTSTAMP:20261025T000000Z
 DTSTART:20261025T000000Z

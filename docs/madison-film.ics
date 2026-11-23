@@ -8,49 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cinematheque-2810-0-1792713600@cinema.wisc.edu
-DTSTAMP:20261023T000000Z
-DTSTART:20261023T000000Z
-DTEND:20261023T014000Z
-SUMMARY:ONCE UPON A TIME IN HARLEM
-LOCATION:UW Cinematheque\, 4070 Vilas Hall\, 821 University Ave\, Madison\
- , WI 53706
-DESCRIPTION:USA | 2026 | DCP| 100 mins.\n\nDirector: David Greaves\n\nOn a
-  summer day in 1972\, many of the key figures of the Harlem Renaissance c
- onvened for a party at Duke Ellington’s apartment\, where they reminisc
- ed and debated their legacy. This lively\, once-in-a-lifetime reunion was
-  captured on 16mm by Symbiopsychotaxiplasm director William Greaves. Over
-  fifty years later\, that footage has finally been edited into this inval
- uable document\, a double reflection spanning 100 years of Black American
-  art. “One of the greatest talking pictures\, one of the greatest cinem
- atic works of creative nonfiction\, that I’ve ever seen” (Richard Bro
- dy\, The New Yorker). (MK)\n\nhttps://cinema.wisc.edu/events/once-upon-a-
- time-in-harlem/\n\nSource: UW Cinematheque
-URL:https://cinema.wisc.edu/events/once-upon-a-time-in-harlem/
-END:VEVENT
-BEGIN:VEVENT
-UID:cinematheque-2526-0-1792800000@cinema.wisc.edu
-DTSTAMP:20261024T000000Z
-DTSTART:20261024T000000Z
-DTEND:20261024T022300Z
-SUMMARY:THE TASTE OF TEA
-LOCATION:UW Cinematheque\, 4084 Vilas Hall\, 821 University Ave\, Madison\
- , WI 53706
-DESCRIPTION:Japan | 2004 | DCP | 143 min. | Japanese with English subtitle
- s\n\nDirector: Katsuhito Ishii\n\nCast: Takahiro Sato\, Maya Sakano\, Tad
- anobu Asano\n\nIn the quiet Japanese countryside\, a series of surreal an
- d comic episodes explore a wildly unconventional family: an artist mother
-  obsessed with animation\, a hypnotherapist father\, a lovestruck teenage
-  son\, a daughter haunted by a double\, and an uncle troubled by ghosts o
- f the past. Director Katsuhito Ishii\, who contributed the anime sequence
-  to Kill Bill\, crafts an eccentric portrait of domestic life that blends
-  deadpan humor\, musical interludes\, animated flourishes\, and dreamlike
-  imagery. Both playful and deeply odd\, The Taste of Tea is “the most c
- harming comedy in town\,” (Michael Phillips\, Chicago Tribune).\n\nhttp
- s://cinema.wisc.edu/events/the-taste-of-tea/\n\nSource: UW Cinematheque
-URL:https://cinema.wisc.edu/events/the-taste-of-tea/
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2522-0-1792886400@cinema.wisc.edu
 DTSTAMP:20261025T000000Z
 DTSTART:20261025T000000Z
@@ -368,31 +325,6 @@ DESCRIPTION:USA | 1930 | 35mm | 102 min.\n\nDirector: Ernst Lubitsch\, Edm
 URL:https://cinema.wisc.edu/events/paramount-on-parade/
 END:VEVENT
 BEGIN:VEVENT
-UID:wud-5089-20261121T1830@union.wisc.edu
-DTSTAMP:20261122T003000Z
-DTSTART:20261122T003000Z
-DTEND:20261122T021900Z
-SUMMARY:Autumn Sonata (1978)
-LOCATION:The Marquee\, Union South
-DESCRIPTION:Sweden | 99 min | PG | Dir. Ingmar Bergman\n \n"A devoted wif
- e is visited by her mother\, a successful concert pianist who had little 
- time for her when she was young." - IMDB\n \n"Bergman's casting coup liv
- es up to expectations. Ingrid Bergman and Liv Ullmann invest their roles 
- with undeniable emotional conviction and impact." - (Gary Arnold\, Washin
- gton Post)\n \nWatch the trailer here:  https://youtu.be/vN71UkVQGwo?si
- =k5NhxsgcBQaCdMXR \n \n\n \n\n \nFor information on available assisti
- ve content for WUD Film screenings\, please visit the Assistive Movie Scr
- eenings in the Marquee Theater page.  \nVisit our Informed Moviegoing R
- esources page for links to resources that explore film ratings and conten
- t alerts.\nThis event is intended for UW-Madison students\, faculty\, sta
- ff\, Wisconsin Union members and their guests. Anyone can become a Wiscon
- sin Union member.\n\nhttps://union.wisc.edu/events-and-activities/event-c
- alendar/event/wud-film-presents-autumn-sonata-1978\n\nSource: WUD Film (T
- he Marquee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-autumn-sonata-1978
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2824-0-1795309200@cinema.wisc.edu
 DTSTAMP:20261122T010000Z
 DTSTART:20261122T010000Z
@@ -413,32 +345,6 @@ DESCRIPTION:USA | 1986 | DCP | 120 min.\n\nDirector: Michael Mann\n\nCast:
  s landmark procedural. (JM)\n\nhttps://cinema.wisc.edu/events/michael-man
  ns-manhunter-the-final-cut/\n\nSource: UW Cinematheque
 URL:https://cinema.wisc.edu/events/michael-manns-manhunter-the-final-cut/
-END:VEVENT
-BEGIN:VEVENT
-UID:wud-5090-20261121T2100@union.wisc.edu
-DTSTAMP:20261122T030000Z
-DTSTART:20261122T030000Z
-DTEND:20261122T052000Z
-SUMMARY:City of God (2002)
-LOCATION:The Marquee\, Union South
-DESCRIPTION:Brazil | 130 min | R | Dir. Fernando Meirelles\n \n"In the sl
- ums of Rio\, two kids' paths diverge as one struggles to become a photogr
- apher and the other a kingpin." - IMDB\n \n" 'City of God' churns with f
- urious energy as it plunges into the story of the slum gangs of Rio de Ja
- neiro. Breathtaking and terrifying\, urgently involved with its character
- s\, it announces a new director of great gifts and passions: Fernando Mei
- relles." - Roger Ebert\n \nWatch the trailer here:  https://youtu.be/dc
- UOO4Itgmw?si=U-0PepnSVgOPNRf4 \n \n\n \n\n For information on availab
- le assistive content for WUD Film screenings\, please visit the Assistive
-  Movie Screenings in the Marquee Theater page.  \nVisit our Informed Mo
- viegoing Resources page for links to resources that explore film ratings 
- and content alerts.\nThis event is intended for UW-Madison students\, fac
- ulty\, staff\, Wisconsin Union members and their guests. Anyone can becom
- e a Wisconsin Union member.\n\nhttps://union.wisc.edu/events-and-activiti
- es/event-calendar/event/wud-film-presents-city-god-2002\n\nSource: WUD Fi
- lm (The Marquee)
-URL:https://union.wisc.edu/events-and-activities/event-calendar/event/wud-
- film-presents-city-god-2002
 END:VEVENT
 BEGIN:VEVENT
 UID:cinematheque-2825-0-1795377600@cinema.wisc.edu
