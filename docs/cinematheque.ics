@@ -8,27 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
-UID:cinematheque-2522-0-1792886400@cinema.wisc.edu
-DTSTAMP:20261025T000000Z
-DTSTART:20261025T000000Z
-DTEND:20261025T015400Z
-SUMMARY:AFTER DARK\, MY SWEET
-LOCATION:UW Cinematheque\, 4082 Vilas Hall\, 821 University Ave\, Madison\
- , WI 53706
-DESCRIPTION:USA | 1990 | 35mm | 114 mins.\n\nDirector: James Foley\n\nCast
- : Jason Patric\, Rachel Ward\, Bruce Dern\n\nIn this sun-baked neo-noir\,
-  a former boxer/escapee from a mental hospital (Patric) hooks up with a l
- onely widow (Ward) and a ne’er-do-well ex-cop (Dern) to hatch a kidnapp
- ing plot that goes wrong from the start. Filled with a cavalcade of noir 
- archetypes\, After Dark\, My Sweet is\, along with Sam Peckinpah’s The 
- Getaway and Stephen Frears’s The Grifters\, among the best adaptations 
- of Jim Thompson novels. “One of the purest and most uncompromising of m
- odern film noir. It captures above all the lonely\, exhausted lives of it
- s characters” (Roger Ebert). (BR)\n\nhttps://cinema.wisc.edu/events/aft
- er-dark-my-sweet/\n\nSource: UW Cinematheque
-URL:https://cinema.wisc.edu/events/after-dark-my-sweet/
-END:VEVENT
-BEGIN:VEVENT
 UID:cinematheque-2812-0-1793318400@cinema.wisc.edu
 DTSTAMP:20261030T000000Z
 DTSTART:20261030T000000Z
